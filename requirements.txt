@@ -1,0 +1,1 @@
+pandas, PyQt6, pyinstaller
