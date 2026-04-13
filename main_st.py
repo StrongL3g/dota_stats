@@ -1,10 +1,25 @@
-import sys
+#
 import pandas as pd
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
                              QHBoxLayout, QTableWidget, QTableWidgetItem,
                              QLabel, QComboBox, QHeaderView, QAbstractItemView)
 from PyQt6.QtCore import Qt
 
+import os
+import sys
+
+# Определяем путь к папке, где лежит сам EXE или скрипт
+if getattr(sys, 'frozen', False):
+    # Если запущено как EXE
+    BASE_DIR = os.path.dirname(sys.executable)
+else:
+    # Если запущено как обычный .py
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Теперь используем BASE_DIR для всех путей
+FILE_PATH = os.path.join(BASE_DIR, "dota_stats_StrongLeg.csv")
+FRIENDS_PATH = os.path.join(BASE_DIR, "friends.json")
+HEROES_PATH = os.path.join(BASE_DIR, "heroes.json")
 
 class DotaStatsApp(QMainWindow):
     def __init__(self, file_path):
