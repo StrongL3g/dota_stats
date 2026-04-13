@@ -1,3 +1,1 @@
-pandas
-PyQt6
-pyinstaller
+pandas, PyQt6, pyinstaller
