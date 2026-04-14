@@ -24,7 +24,7 @@ HEROES_PATH = os.path.join(BASE_DIR, "heroes.json")
 class DotaStatsApp(QMainWindow):
     def __init__(self, file_path):
         super().__init__()
-        self.setWindowTitle("Dota 2 Team Analytics - StrongLeg Edition")
+        self.setWindowTitle("Dota 2 Team Analytics")
         self.resize(1200, 800)
 
         # Загрузка данных
