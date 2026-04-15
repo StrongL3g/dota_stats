@@ -1,3 +1,4 @@
+---
 
 ```markdown
 # 🎮 Dota 2 Stats Harvester
@@ -194,5 +195,5 @@ dota_stats/
 
 > 💬 **Вопросы?** Создайте [Issue](https://github.com/StrongL3g/dota_stats/issues) или напишите напрямую автору.
 ```
-
+---
 
