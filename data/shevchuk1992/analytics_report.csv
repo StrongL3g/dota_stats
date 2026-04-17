@@ -28,7 +28,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 1417044837,2015-04-22 22:09,121245485,Гав Гав,Alchemist,Dire,No,4,4,17
 1417044837,2015-04-22 22:09,179072146,ToxxigeN,Ogre Magi,Dire,No,6,9,12
 1417044837,2015-04-22 22:09,110707873,Woooock to Poland,Queen of Pain,Dire,No,11,8,17
-1417044837,2015-04-22 22:09,125650031,zxcvc,Oracle,Dire,No,5,16,18
+1417044837,2015-04-22 22:09,125650031,zxcvc,Phoenix,Dire,No,5,16,18
 1419267483,2015-04-23 23:01,91532181,WIZARD,Tidehunter,Radiant,Yes,6,6,21
 1419267483,2015-04-23 23:01,94207647,◈ Kabuto ◈,Pudge,Radiant,Yes,17,11,20
 1419267483,2015-04-23 23:01,196241890,1CE,Ancient Apparition,Radiant,Yes,5,8,21
@@ -54,12 +54,12 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 3063219119,2017-03-18 21:01,114087580,Shkarla,Phantom Assassin,Radiant,No,3,5,0
 3063219119,2017-03-18 21:01,189073868,Гейоргий г.Самара,Centaur Warrunner,Radiant,No,0,6,2
 3063219119,2017-03-18 21:01,118421501,Сappuccino,Jakiro,Radiant,No,0,5,2
-3063219119,2017-03-18 21:01,53849319,OUHETTUR,Underlord,Dire,Yes,6,0,16
+3063219119,2017-03-18 21:01,53849319,OUHETTUR,Earth Spirit,Dire,Yes,6,0,16
 3063219119,2017-03-18 21:01,110621494,teo,Warlock,Dire,Yes,2,2,15
 3063219119,2017-03-18 21:01,34226035,StrongLeg,Wraith King,Dire,Yes,8,0,12
 3063219119,2017-03-18 21:01,67889298,Sonsaky,Lion,Dire,Yes,0,1,11
 3063219119,2017-03-18 21:01,227327403,ЕБЛАН ★★★,Shadow Fiend,Dire,Yes,12,1,10
-3063314597,2017-03-18 21:51,53849319,OUHETTUR,Underlord,Radiant,Yes,2,3,19
+3063314597,2017-03-18 21:51,53849319,OUHETTUR,Earth Spirit,Radiant,Yes,2,3,19
 3063314597,2017-03-18 21:51,110621494,teo,Warlock,Radiant,Yes,7,2,18
 3063314597,2017-03-18 21:51,34226035,StrongLeg,Dragon Knight,Radiant,Yes,9,2,12
 3063314597,2017-03-18 21:51,67889298,Sonsaky,Lion,Radiant,Yes,2,2,11
@@ -74,14 +74,14 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 3063404446,2017-03-18 22:44,138147737,cerber-,Sniper,Radiant,No,4,6,7
 3063404446,2017-03-18 22:44,209834422,Бурмалдаец,Clinkz,Radiant,No,8,8,8
 3063404446,2017-03-18 22:44,183806643,ДИЗ 31 ТИР,Vengeful Spirit,Radiant,No,0,12,10
-3063404446,2017-03-18 22:44,53849319,OUHETTUR,Underlord,Dire,Yes,5,2,27
+3063404446,2017-03-18 22:44,53849319,OUHETTUR,Earth Spirit,Dire,Yes,5,2,27
 3063404446,2017-03-18 22:44,110621494,teo,Warlock,Dire,Yes,10,3,23
 3063404446,2017-03-18 22:44,34226035,StrongLeg,Lifestealer,Dire,Yes,8,5,17
 3063404446,2017-03-18 22:44,67889298,Sonsaky,Lion,Dire,Yes,3,5,13
 3063404446,2017-03-18 22:44,227327403,ЕБЛАН ★★★,Shadow Fiend,Dire,Yes,16,2,21
 5234616276,2020-02-09 16:16,235874546,ARQA,Outworld Destroyer,Radiant,Yes,22,3,5
-5234616276,2020-02-09 16:16,143231527,UzunBOY,Oracle,Radiant,Yes,2,5,27
-5234616276,2020-02-09 16:16,235241982,20:31,Pangolier,Radiant,Yes,20,3,11
+5234616276,2020-02-09 16:16,143231527,UzunBOY,Phoenix,Radiant,Yes,2,5,27
+5234616276,2020-02-09 16:16,235241982,20:31,Monkey King,Radiant,Yes,20,3,11
 5234616276,2020-02-09 16:16,907865712,Jibur,Ogre Magi,Radiant,Yes,4,4,28
 5234616276,2020-02-09 16:16,190775758,K21NG ♚,Abaddon,Radiant,Yes,3,1,24
 5234616276,2020-02-09 16:16,35394283,Xocccp,Skywrath Mage,Dire,No,3,8,8
@@ -91,7 +91,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5234616276,2020-02-09 16:16,156524895,Frya-rya,Undying,Dire,No,3,11,5
 5334047600,2020-04-04 19:15,132943958,Жора Пасатижи,Sniper,Radiant,Yes,11,2,11
 5334047600,2020-04-04 19:15,244273380,Vicont,Shadow Shaman,Radiant,Yes,4,8,22
-5334047600,2020-04-04 19:15,235866371,leps,Terrorblade,Radiant,Yes,5,5,18
+5334047600,2020-04-04 19:15,235866371,leps,Underlord,Radiant,Yes,5,5,18
 5334047600,2020-04-04 19:15,121607354,Andy WindyHead,Windranger,Radiant,Yes,7,7,24
 5334047600,2020-04-04 19:15,104608913,Y O S E N,Queen of Pain,Radiant,Yes,16,2,16
 5334047600,2020-04-04 19:15,110621494,teo,Lion,Dire,No,2,12,12
@@ -104,16 +104,16 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5334150656,2020-04-04 20:07,244273380,Vicont,Shadow Shaman,Radiant,Yes,8,12,22
 5334150656,2020-04-04 20:07,121607354,Andy WindyHead,Jakiro,Radiant,Yes,4,9,20
 5334150656,2020-04-04 20:07,235866371,leps,Tidehunter,Radiant,Yes,1,11,25
-5334150656,2020-04-04 20:07,34226035,StrongLeg,Grimstroke,Dire,No,15,7,12
+5334150656,2020-04-04 20:07,34226035,StrongLeg,Pangolier,Dire,No,15,7,12
 5334150656,2020-04-04 20:07,110621494,teo,Crystal Maiden,Dire,No,5,10,18
-5334150656,2020-04-04 20:07,35394283,Xocccp,Ember Spirit,Dire,No,4,5,14
+5334150656,2020-04-04 20:07,35394283,Xocccp,Techies,Dire,No,4,5,14
 5334150656,2020-04-04 20:07,195657222,-25,Shadow Fiend,Dire,No,5,6,17
 5334150656,2020-04-04 20:07,48804856,Булка с маком,Pudge,Dire,No,6,14,11
 5334308632,2020-04-04 21:28,132943958,Жора Пасатижи,Phantom Lancer,Radiant,Yes,22,4,6
 5334308632,2020-04-04 21:28,104608913,Y O S E N,Storm Spirit,Radiant,Yes,6,4,12
 5334308632,2020-04-04 21:28,244273380,Vicont,Shadow Shaman,Radiant,Yes,2,13,15
 5334308632,2020-04-04 21:28,121607354,Andy WindyHead,Void Spirit,Radiant,Yes,8,11,17
-5334308632,2020-04-04 21:28,235866371,leps,Dawnbreaker,Radiant,Yes,0,12,14
+5334308632,2020-04-04 21:28,235866371,leps,Mars,Radiant,Yes,0,12,14
 5334308632,2020-04-04 21:28,110621494,teo,Slardar,Dire,No,2,10,8
 5334308632,2020-04-04 21:28,195657222,-25,Anti-Mage,Dire,No,11,6,16
 5334308632,2020-04-04 21:28,48804856,Булка с маком,Lina,Dire,No,11,8,8
@@ -125,7 +125,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5336273215,2020-04-05 18:18,104608913,Y O S E N,Windranger,Radiant,Yes,14,2,7
 5336273215,2020-04-05 18:18,244273380,Vicont,Disruptor,Radiant,Yes,3,10,13
 5336273215,2020-04-05 18:18,195657222,-25,Dragon Knight,Dire,No,10,6,6
-5336273215,2020-04-05 18:18,110621494,teo,Arc Warden,Dire,No,1,8,15
+5336273215,2020-04-05 18:18,110621494,teo,Winter Wyvern,Dire,No,1,8,15
 5336273215,2020-04-05 18:18,35394283,Xocccp,Huskar,Dire,No,9,9,8
 5336273215,2020-04-05 18:18,34226035,StrongLeg,Legion Commander,Dire,No,6,4,20
 5336273215,2020-04-05 18:18,48804856,Булка с маком,Lina,Dire,No,8,9,10
@@ -138,7 +138,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5336423517,2020-04-05 19:23,48804856,Булка с маком,Lion,Dire,Yes,2,9,17
 5336423517,2020-04-05 19:23,110621494,teo,Bristleback,Dire,Yes,7,5,23
 5336423517,2020-04-05 19:23,195657222,-25,Sniper,Dire,Yes,22,2,10
-5336423517,2020-04-05 19:23,34226035,StrongLeg,Grimstroke,Dire,Yes,12,5,25
+5336423517,2020-04-05 19:23,34226035,StrongLeg,Pangolier,Dire,Yes,12,5,25
 5336549254,2020-04-05 20:24,132943958,Жора Пасатижи,Doom,Radiant,No,5,8,20
 5336549254,2020-04-05 20:24,235866371,leps,Nyx Assassin,Radiant,No,8,10,18
 5336549254,2020-04-05 20:24,244273380,Vicont,Disruptor,Radiant,No,4,16,15
@@ -146,18 +146,18 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5336549254,2020-04-05 20:24,870022587,< blank >,Tidehunter,Radiant,No,5,6,10
 5336549254,2020-04-05 20:24,35394283,Xocccp,Riki,Dire,Yes,26,7,10
 5336549254,2020-04-05 20:24,195657222,-25,Outworld Destroyer,Dire,Yes,11,7,11
-5336549254,2020-04-05 20:24,34226035,StrongLeg,Mars,Dire,Yes,3,3,28
+5336549254,2020-04-05 20:24,34226035,StrongLeg,Grimstroke,Dire,Yes,3,3,28
 5336549254,2020-04-05 20:24,48804856,Булка с маком,Ogre Magi,Dire,Yes,2,10,24
 5336549254,2020-04-05 20:24,110621494,teo,Bristleback,Dire,Yes,5,6,24
-5370871974,2020-04-21 22:35,132943958,Жора Пасатижи,Terrorblade,Radiant,Yes,5,6,18
+5370871974,2020-04-21 22:35,132943958,Жора Пасатижи,Underlord,Radiant,Yes,5,6,18
 5370871974,2020-04-21 22:35,244273380,Vicont,Ogre Magi,Radiant,Yes,6,8,14
 5370871974,2020-04-21 22:35,104608913,Y O S E N,Juggernaut,Radiant,Yes,8,4,9
 5370871974,2020-04-21 22:35,197734210,bl4cky,Sniper,Radiant,Yes,7,4,9
 5370871974,2020-04-21 22:35,985088428,KiRnyXa,Snapfire,Radiant,Yes,7,7,9
-5370871974,2020-04-21 22:35,34226035,StrongLeg,Grimstroke,Dire,No,10,6,6
+5370871974,2020-04-21 22:35,34226035,StrongLeg,Pangolier,Dire,No,10,6,6
 5370871974,2020-04-21 22:35,110621494,teo,Wraith King,Dire,No,2,3,11
 5370871974,2020-04-21 22:35,35394283,Xocccp,Weaver,Dire,No,9,3,6
-5370871974,2020-04-21 22:35,932262749,Легенда,Mars,Dire,No,1,7,13
+5370871974,2020-04-21 22:35,932262749,Легенда,Grimstroke,Dire,No,1,7,13
 5370871974,2020-04-21 22:35,48804856,Булка с маком,Lina,Dire,No,5,15,9
 5370947793,2020-04-21 23:35,132943958,Жора Пасатижи,Death Prophet,Radiant,Yes,9,4,17
 5370947793,2020-04-21 23:35,197734210,bl4cky,Bloodseeker,Radiant,Yes,14,5,9
@@ -168,34 +168,34 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5370947793,2020-04-21 23:35,34226035,StrongLeg,Templar Assassin,Dire,No,9,3,10
 5370947793,2020-04-21 23:35,110621494,teo,Bristleback,Dire,No,5,9,17
 5370947793,2020-04-21 23:35,932262749,Легенда,Slark,Dire,No,7,10,7
-5370947793,2020-04-21 23:35,48804856,Булка с маком,Mars,Dire,No,6,7,18
+5370947793,2020-04-21 23:35,48804856,Булка с маком,Grimstroke,Dire,No,6,7,18
 5372583666,2020-04-22 20:22,132943958,Жора Пасатижи,Nature's Prophet,Radiant,No,2,6,9
 5372583666,2020-04-22 20:22,199157120,Sphinx,Disruptor,Radiant,No,0,8,8
 5372583666,2020-04-22 20:22,197734210,bl4cky,Faceless Void,Radiant,No,2,4,6
 5372583666,2020-04-22 20:22,104608913,Y O S E N,Queen of Pain,Radiant,No,7,4,2
 5372583666,2020-04-22 20:22,208410876,Friendly Unit,Tidehunter,Radiant,No,1,11,5
-5372583666,2020-04-22 20:22,241209689,John McClane,Mars,Dire,Yes,7,1,17
+5372583666,2020-04-22 20:22,241209689,John McClane,Grimstroke,Dire,Yes,7,1,17
 5372583666,2020-04-22 20:22,48804856,Булка с маком,Pugna,Dire,Yes,6,4,12
 5372583666,2020-04-22 20:22,110621494,teo,Night Stalker,Dire,Yes,9,2,7
 5372583666,2020-04-22 20:22,35394283,Xocccp,Kunkka,Dire,Yes,8,4,11
 5372583666,2020-04-22 20:22,195657222,-25,Anti-Mage,Dire,Yes,3,1,6
-5372679412,2020-04-22 21:18,132943958,Жора Пасатижи,Arc Warden,Radiant,No,0,6,1
+5372679412,2020-04-22 21:18,132943958,Жора Пасатижи,Winter Wyvern,Radiant,No,0,6,1
 5372679412,2020-04-22 21:18,197734210,bl4cky,Lifestealer,Radiant,No,0,3,0
 5372679412,2020-04-22 21:18,104608913,Y O S E N,Storm Spirit,Radiant,No,3,1,1
 5372679412,2020-04-22 21:18,199157120,Sphinx,Lion,Radiant,No,0,5,0
-5372679412,2020-04-22 21:18,208410876,Friendly Unit,Terrorblade,Radiant,No,0,8,0
+5372679412,2020-04-22 21:18,208410876,Friendly Unit,Underlord,Radiant,No,0,8,0
 5372679412,2020-04-22 21:18,35394283,Xocccp,Kunkka,Dire,Yes,6,2,6
 5372679412,2020-04-22 21:18,110621494,teo,Centaur Warrunner,Dire,Yes,2,0,11
-5372679412,2020-04-22 21:18,241209689,John McClane,Mars,Dire,Yes,4,0,7
+5372679412,2020-04-22 21:18,241209689,John McClane,Grimstroke,Dire,Yes,4,0,7
 5372679412,2020-04-22 21:18,48804856,Булка с маком,Lina,Dire,Yes,5,0,7
 5372679412,2020-04-22 21:18,195657222,-25,Sniper,Dire,Yes,6,2,6
 5376760369,2020-04-24 22:31,132943958,Жора Пасатижи,Bounty Hunter,Radiant,No,0,5,2
 5376760369,2020-04-24 22:31,208410876,Friendly Unit,Spirit Breaker,Radiant,No,0,9,3
-5376760369,2020-04-24 22:31,182209153,дино спамони,Oracle,Radiant,No,3,5,0
+5376760369,2020-04-24 22:31,182209153,дино спамони,Phoenix,Radiant,No,3,5,0
 5376760369,2020-04-24 22:31,244273380,Vicont,Lich,Radiant,No,1,9,1
 5376760369,2020-04-24 22:31,104608913,Y O S E N,Outworld Destroyer,Radiant,No,1,5,0
 5376760369,2020-04-24 22:31,35394283,Xocccp,Ursa,Dire,Yes,8,1,6
-5376760369,2020-04-24 22:31,34226035,StrongLeg,Mars,Dire,Yes,5,0,20
+5376760369,2020-04-24 22:31,34226035,StrongLeg,Grimstroke,Dire,Yes,5,0,20
 5376760369,2020-04-24 22:31,110621494,teo,Centaur Warrunner,Dire,Yes,2,1,10
 5376760369,2020-04-24 22:31,195657222,-25,Storm Spirit,Dire,Yes,10,1,11
 5376760369,2020-04-24 22:31,932262749,Легенда,Rubick,Dire,Yes,7,2,17
@@ -223,7 +223,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5378746621,2020-04-25 20:39,104608913,Y O S E N,Axe,Radiant,No,1,7,6
 5378746621,2020-04-25 20:39,53849319,OUHETTUR,Phantom Lancer,Radiant,No,4,4,3
 5378746621,2020-04-25 20:39,287854202,Lawyer,Invoker,Radiant,No,5,6,3
-5378746621,2020-04-25 20:39,67889298,Sonsaky,Winter Wyvern,Radiant,No,3,11,8
+5378746621,2020-04-25 20:39,67889298,Sonsaky,Oracle,Radiant,No,3,11,8
 5378746621,2020-04-25 20:39,35394283,Xocccp,Zeus,Dire,Yes,7,2,22
 5378746621,2020-04-25 20:39,195657222,-25,Pudge,Dire,Yes,10,3,19
 5378746621,2020-04-25 20:39,110621494,teo,Tidehunter,Dire,Yes,7,2,24
@@ -232,9 +232,9 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5378857438,2020-04-25 21:41,132943958,Жора Пасатижи,Viper,Radiant,No,3,9,18
 5378857438,2020-04-25 21:41,67889298,Sonsaky,Lich,Radiant,No,7,12,13
 5378857438,2020-04-25 21:41,53849319,OUHETTUR,Wraith King,Radiant,No,9,7,15
-5378857438,2020-04-25 21:41,287854202,Lawyer,Mars,Radiant,No,1,10,20
+5378857438,2020-04-25 21:41,287854202,Lawyer,Grimstroke,Radiant,No,1,10,20
 5378857438,2020-04-25 21:41,104608913,Y O S E N,Outworld Destroyer,Radiant,No,11,11,8
-5378857438,2020-04-25 21:41,195657222,-25,Pangolier,Dire,Yes,17,5,16
+5378857438,2020-04-25 21:41,195657222,-25,Monkey King,Dire,Yes,17,5,16
 5378857438,2020-04-25 21:41,110621494,teo,Night Stalker,Dire,Yes,7,7,25
 5378857438,2020-04-25 21:41,932262749,Легенда,Pugna,Dire,Yes,2,12,24
 5378857438,2020-04-25 21:41,34226035,StrongLeg,Ancient Apparition,Dire,Yes,8,4,22
@@ -246,7 +246,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5380855525,2020-04-26 20:28,244273380,Vicont,Shadow Shaman,Radiant,Yes,1,10,14
 5380855525,2020-04-26 20:28,195657222,-25,Invoker,Dire,No,6,5,12
 5380855525,2020-04-26 20:28,110621494,teo,Bristleback,Dire,No,7,4,18
-5380855525,2020-04-26 20:28,34226035,StrongLeg,Arc Warden,Dire,No,6,8,8
+5380855525,2020-04-26 20:28,34226035,StrongLeg,Winter Wyvern,Dire,No,6,8,8
 5380855525,2020-04-26 20:28,35394283,Xocccp,Phantom Assassin,Dire,No,8,8,13
 5380855525,2020-04-26 20:28,48804856,Булка с маком,Lion,Dire,No,4,8,12
 5380941814,2020-04-26 21:18,132943958,Жора Пасатижи,Necrophos,Radiant,No,8,10,12
@@ -275,7 +275,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5392544093,2020-05-02 19:13,155191014,sadface,Ogre Magi,Radiant,Yes,1,10,28
 5392544093,2020-05-02 19:13,36729463,elim),Jakiro,Radiant,Yes,4,5,21
 5392544093,2020-05-02 19:13,110591209,DonProebone,Axe,Dire,No,8,11,19
-5392544093,2020-05-02 19:13,241256761,Afonya228,Pangolier,Dire,No,13,7,6
+5392544093,2020-05-02 19:13,241256761,Afonya228,Monkey King,Dire,No,13,7,6
 5392544093,2020-05-02 19:13,91650855,Конец игры,Zeus,Dire,No,12,8,20
 5392544093,2020-05-02 19:13,127302325,snaiperRus,Crystal Maiden,Dire,No,0,12,10
 5392544093,2020-05-02 19:13,120237708,Hlopok,Dazzle,Dire,No,3,8,22
@@ -287,7 +287,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5394645520,2020-05-03 19:13,108217902,Hedwig,Undying,Dire,Yes,0,4,15
 5394645520,2020-05-03 19:13,166576546,Sin3d,Phantom Assassin,Dire,Yes,6,4,12
 5394645520,2020-05-03 19:13,130408770,FoTToN,Dazzle,Dire,Yes,5,6,17
-5394645520,2020-05-03 19:13,158438506,PORNOPLAYER,Phoenix,Dire,Yes,14,2,7
+5394645520,2020-05-03 19:13,158438506,PORNOPLAYER,Terrorblade,Dire,Yes,14,2,7
 5394645520,2020-05-03 19:13,86682852,LuckY^,Centaur Warrunner,Dire,Yes,7,1,17
 5394758721,2020-05-03 20:10,132943958,Жора Пасатижи,Death Prophet,Radiant,No,3,5,1
 5394758721,2020-05-03 20:10,155191014,sadface,Ogre Magi,Radiant,No,1,5,3
@@ -297,12 +297,12 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5394758721,2020-05-03 20:10,158438506,PORNOPLAYER,Sven,Dire,Yes,3,0,4
 5394758721,2020-05-03 20:10,108217902,Hedwig,Lich,Dire,Yes,1,1,8
 5394758721,2020-05-03 20:10,130408770,FoTToN,Clockwerk,Dire,Yes,5,0,5
-5394758721,2020-05-03 20:10,67344653,Кеша,Ember Spirit,Dire,Yes,4,3,11
+5394758721,2020-05-03 20:10,67344653,Кеша,Techies,Dire,Yes,4,3,11
 5394758721,2020-05-03 20:10,166576546,Sin3d,Huskar,Dire,Yes,6,2,4
 5398533253,2020-05-05 18:05,158438506,PORNOPLAYER,Phantom Lancer,Radiant,Yes,15,2,6
 5398533253,2020-05-05 18:05,166576546,Sin3d,Phantom Assassin,Radiant,Yes,10,6,11
 5398533253,2020-05-05 18:05,67344653,Кеша,Disruptor,Radiant,Yes,4,6,23
-5398533253,2020-05-05 18:05,108217902,Hedwig,Oracle,Radiant,Yes,1,4,15
+5398533253,2020-05-05 18:05,108217902,Hedwig,Phoenix,Radiant,Yes,1,4,15
 5398533253,2020-05-05 18:05,86682852,LuckY^,Axe,Radiant,Yes,5,4,9
 5398533253,2020-05-05 18:05,132943958,Жора Пасатижи,Sniper,Dire,No,4,7,11
 5398533253,2020-05-05 18:05,155191014,sadface,Lich,Dire,No,3,10,8
@@ -324,7 +324,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5432538969,2020-05-24 12:05,132943958,Жора Пасатижи,Troll Warlord,Radiant,No,3,6,5
 5432538969,2020-05-24 12:05,85162070,sus,Shadow Demon,Radiant,No,2,9,10
 5432538969,2020-05-24 12:05,104608913,Y O S E N,Lion,Radiant,No,6,9,3
-5432538969,2020-05-24 12:05,491953763,Алкоголимся,Oracle,Dire,Yes,7,0,20
+5432538969,2020-05-24 12:05,491953763,Алкоголимся,Phoenix,Dire,Yes,7,0,20
 5432538969,2020-05-24 12:05,80121834,CEREBRA,Clockwerk,Dire,Yes,3,7,13
 5432538969,2020-05-24 12:05,250302191,.aGGreSSive666,Phantom Lancer,Dire,Yes,16,1,6
 5432538969,2020-05-24 12:05,64223284,JumSy,Disruptor,Dire,Yes,3,3,21
@@ -333,13 +333,13 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5432620909,2020-05-24 13:02,80121834,CEREBRA,Clockwerk,Radiant,Yes,7,5,23
 5432620909,2020-05-24 13:02,250302191,.aGGreSSive666,Luna,Radiant,Yes,18,3,10
 5432620909,2020-05-24 13:02,491953763,Алкоголимся,Lone Druid,Radiant,Yes,13,2,19
-5432620909,2020-05-24 13:02,861997619,XristyaN,Ember Spirit,Radiant,Yes,11,5,7
-5432620909,2020-05-24 13:02,85162070,sus,Mars,Dire,No,1,16,12
+5432620909,2020-05-24 13:02,861997619,XristyaN,Techies,Radiant,Yes,11,5,7
+5432620909,2020-05-24 13:02,85162070,sus,Grimstroke,Dire,No,1,16,12
 5432620909,2020-05-24 13:02,197734210,bl4cky,Sniper,Dire,No,12,5,6
 5432620909,2020-05-24 13:02,104608913,Y O S E N,Juggernaut,Dire,No,5,5,3
-5432620909,2020-05-24 13:02,132943958,Жора Пасатижи,Grimstroke,Dire,No,2,14,12
+5432620909,2020-05-24 13:02,132943958,Жора Пасатижи,Pangolier,Dire,No,2,14,12
 5432620909,2020-05-24 13:02,110621494,teo,Centaur Warrunner,Dire,No,2,15,7
-5432806931,2020-05-24 15:05,197734210,bl4cky,Pangolier,Radiant,No,1,4,1
+5432806931,2020-05-24 15:05,197734210,bl4cky,Monkey King,Radiant,No,1,4,1
 5432806931,2020-05-24 15:05,104608913,Y O S E N,Viper,Radiant,No,3,12,2
 5432806931,2020-05-24 15:05,132943958,Жора Пасатижи,Weaver,Radiant,No,2,5,3
 5432806931,2020-05-24 15:05,110621494,teo,Bristleback,Radiant,No,0,7,1
@@ -351,9 +351,9 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5432806931,2020-05-24 15:05,133965234,Empire,Rubick,Dire,Yes,7,2,13
 5432899536,2020-05-24 15:56,225694058,swap commends,Anti-Mage,Radiant,Yes,13,4,12
 5432899536,2020-05-24 15:56,223260381,kkostbester,Templar Assassin,Radiant,Yes,7,7,16
-5432899536,2020-05-24 15:56,104518656,этерна ленви,Dawnbreaker,Radiant,Yes,5,8,21
+5432899536,2020-05-24 15:56,104518656,этерна ленви,Mars,Radiant,Yes,5,8,21
 5432899536,2020-05-24 15:56,104541147,Skooman,Disruptor,Radiant,Yes,6,4,22
-5432899536,2020-05-24 15:56,133965234,Empire,Oracle,Radiant,Yes,6,8,22
+5432899536,2020-05-24 15:56,133965234,Empire,Phoenix,Radiant,Yes,6,8,22
 5432899536,2020-05-24 15:56,197734210,bl4cky,Drow Ranger,Dire,No,8,5,6
 5432899536,2020-05-24 15:56,132943958,Жора Пасатижи,Void Spirit,Dire,No,5,11,10
 5432899536,2020-05-24 15:56,85162070,sus,Ancient Apparition,Dire,No,4,8,19
@@ -361,13 +361,13 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5432899536,2020-05-24 15:56,110621494,teo,Night Stalker,Dire,No,9,3,10
 5443769618,2020-05-30 13:18,132943958,Жора Пасатижи,Void Spirit,Radiant,No,0,4,5
 5443769618,2020-05-30 13:18,197734210,bl4cky,Sniper,Radiant,No,4,4,4
-5443769618,2020-05-30 13:18,85162070,sus,Arc Warden,Radiant,No,2,10,5
+5443769618,2020-05-30 13:18,85162070,sus,Winter Wyvern,Radiant,No,2,10,5
 5443769618,2020-05-30 13:18,104608913,Y O S E N,Death Prophet,Radiant,No,4,3,2
 5443769618,2020-05-30 13:18,110621494,teo,Night Stalker,Radiant,No,3,7,2
 5443769618,2020-05-30 13:18,120562872,Rarity,Wraith King,Dire,Yes,8,0,4
 5443769618,2020-05-30 13:18,328962072,ratata,Lich,Dire,Yes,6,5,11
 5443769618,2020-05-30 13:18,140895182,†SANDEX†,Lone Druid,Dire,Yes,6,2,5
-5443769618,2020-05-30 13:18,476014305,magnus333,Mars,Dire,Yes,5,6,12
+5443769618,2020-05-30 13:18,476014305,magnus333,Grimstroke,Dire,Yes,5,6,12
 5443769618,2020-05-30 13:18,193576497,TESTOSTERONE,Centaur Warrunner,Dire,Yes,3,1,17
 5443845559,2020-05-30 14:05,197734210,bl4cky,Sniper,Radiant,No,7,4,9
 5443845559,2020-05-30 14:05,104608913,Y O S E N,Queen of Pain,Radiant,No,4,8,6
@@ -378,24 +378,24 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5443845559,2020-05-30 14:05,120562872,Rarity,Lifestealer,Dire,Yes,7,3,10
 5443845559,2020-05-30 14:05,140895182,†SANDEX†,Shadow Fiend,Dire,Yes,16,2,7
 5443845559,2020-05-30 14:05,476014305,magnus333,Dazzle,Dire,Yes,1,11,10
-5443845559,2020-05-30 14:05,193576497,TESTOSTERONE,Dawnbreaker,Dire,Yes,4,2,15
+5443845559,2020-05-30 14:05,193576497,TESTOSTERONE,Mars,Dire,Yes,4,2,15
 5479669461,2020-06-20 21:00,312568375,k34 | 到三十四,Centaur Warrunner,Radiant,Yes,4,6,19
 5479669461,2020-06-20 21:00,257228901,123,Ursa,Radiant,Yes,11,3,9
 5479669461,2020-06-20 21:00,90287718,kk,Ancient Apparition,Radiant,Yes,3,7,21
-5479669461,2020-06-20 21:00,59533744,VOVANREAL,Underlord,Radiant,Yes,8,3,21
+5479669461,2020-06-20 21:00,59533744,VOVANREAL,Earth Spirit,Radiant,Yes,8,3,21
 5479669461,2020-06-20 21:00,324685616,УПАЛ ОТЖАЛСЯ,Sniper,Radiant,Yes,21,5,12
 5479669461,2020-06-20 21:00,110621494,teo,Night Stalker,Dire,No,2,8,10
 5479669461,2020-06-20 21:00,230727902,WTF,Riki,Dire,No,11,8,3
 5479669461,2020-06-20 21:00,104608913,Y O S E N,Queen of Pain,Dire,No,6,8,3
-5479669461,2020-06-20 21:00,34226035,StrongLeg,Mars,Dire,No,3,9,9
+5479669461,2020-06-20 21:00,34226035,StrongLeg,Grimstroke,Dire,No,3,9,9
 5479669461,2020-06-20 21:00,932262749,Легенда,Rubick,Dire,No,1,14,7
 5489320700,2020-06-27 21:00,59911694,Rayan Gousling,Lone Druid,Radiant,Yes,4,10,15
 5489320700,2020-06-27 21:00,94989033,Banana Goose,Ogre Magi,Radiant,Yes,1,14,21
 5489320700,2020-06-27 21:00,121141775,♂,Magnus,Radiant,Yes,20,4,11
 5489320700,2020-06-27 21:00,58000371,Moreto,Undying,Radiant,Yes,9,5,25
 5489320700,2020-06-27 21:00,199007841,TeamSpirit.UbyuNoskom,Zeus,Radiant,Yes,16,7,27
-5489320700,2020-06-27 21:00,110621494,teo,Arc Warden,Dire,No,1,17,12
-5489320700,2020-06-27 21:00,34226035,StrongLeg,Grimstroke,Dire,No,4,5,24
+5489320700,2020-06-27 21:00,110621494,teo,Winter Wyvern,Dire,No,1,17,12
+5489320700,2020-06-27 21:00,34226035,StrongLeg,Pangolier,Dire,No,4,5,24
 5489320700,2020-06-27 21:00,230727902,WTF,Pudge,Dire,No,14,10,13
 5489320700,2020-06-27 21:00,195657222,-25,Anti-Mage,Dire,No,10,7,7
 5489320700,2020-06-27 21:00,48804856,Булка с маком,Pugna,Dire,No,8,12,10
@@ -409,7 +409,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5508807222,2020-07-11 21:01,34226035,StrongLeg,Witch Doctor,Dire,No,6,8,7
 5508807222,2020-07-11 21:01,230727902,WTF,Weaver,Dire,No,6,5,10
 5508807222,2020-07-11 21:01,132943958,Жора Пасатижи,Keeper of the Light,Dire,No,1,9,11
-5701175102,2020-11-14 21:00,110621494,teo,Terrorblade,Radiant,No,3,8,16
+5701175102,2020-11-14 21:00,110621494,teo,Underlord,Radiant,No,3,8,16
 5701175102,2020-11-14 21:00,35394283,Xocccp,Wraith King,Radiant,No,8,11,13
 5701175102,2020-11-14 21:00,34226035,StrongLeg,Vengeful Spirit,Radiant,No,4,8,13
 5701175102,2020-11-14 21:00,48804856,Булка с маком,Pugna,Radiant,No,5,12,14
@@ -418,19 +418,19 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 5701175102,2020-11-14 21:00,265856444,вор,Snapfire,Dire,Yes,9,5,28
 5701175102,2020-11-14 21:00,917722368,Нефор,Ogre Magi,Dire,Yes,3,8,17
 5701175102,2020-11-14 21:00,115675310,Simply lovely,Windranger,Dire,Yes,13,3,16
-5701175102,2020-11-14 21:00,1114978386,улучшитель,Dawnbreaker,Dire,Yes,8,9,26
-6386125298,2022-01-19 20:29,160336757,4FuN,Dawnbreaker,Radiant,Yes,0,0,0
+5701175102,2020-11-14 21:00,1114978386,улучшитель,Mars,Dire,Yes,8,9,26
+6386125298,2022-01-19 20:29,160336757,4FuN,Mars,Radiant,Yes,0,0,0
 6386125298,2022-01-19 20:29,33388894,ʕ•ᴥ•ʔ,Batrider,Radiant,Yes,0,0,0
 6386125298,2022-01-19 20:29,151762086,ZakariA,Rubick,Radiant,Yes,0,0,0
 6386125298,2022-01-19 20:29,142557173,Sadeq,Crystal Maiden,Radiant,Yes,0,0,0
 6386125298,2022-01-19 20:29,1061528846,hate everyone,Outworld Destroyer,Radiant,Yes,0,0,0
 6386125298,2022-01-19 20:29,130403,mght,Shadow Fiend,Dire,No,0,0,0
-6386125298,2022-01-19 20:29,991705229,s#d,Mars,Dire,No,0,0,0
+6386125298,2022-01-19 20:29,991705229,s#d,Grimstroke,Dire,No,0,0,0
 6386125298,2022-01-19 20:29,1261320694,AirCon7roL,Razor,Dire,No,0,0,0
 6386125298,2022-01-19 20:29,110621494,teo,Ogre Magi,Dire,No,0,0,0
 6386125298,2022-01-19 20:29,1061316952,Кобра,Keeper of the Light,Dire,No,0,0,0
 6567371036,2022-05-12 23:14,44019880,Atzik,Witch Doctor,Radiant,No,10,7,11
-6567371036,2022-05-12 23:14,35394283,Xocccp,Ember Spirit,Radiant,No,12,10,12
+6567371036,2022-05-12 23:14,35394283,Xocccp,Techies,Radiant,No,12,10,12
 6567371036,2022-05-12 23:14,48804856,Булка с маком,Pudge,Radiant,No,7,12,14
 6567371036,2022-05-12 23:14,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Sand King,Radiant,No,5,11,16
 6567371036,2022-05-12 23:14,110621494,teo,Lone Druid,Radiant,No,10,6,6
@@ -452,16 +452,16 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 6774769290,2022-09-25 00:30,35394283,Xocccp,Sniper,Radiant,No,13,10,14
 6774769290,2022-09-25 00:30,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Radiant,No,1,13,16
 6774769290,2022-09-25 00:30,34226035,StrongLeg,Razor,Radiant,No,18,12,16
-6774769290,2022-09-25 00:30,110621494,teo,Arc Warden,Radiant,No,4,13,16
+6774769290,2022-09-25 00:30,110621494,teo,Winter Wyvern,Radiant,No,4,13,16
 6774769290,2022-09-25 00:30,94001827,Lord Finger,Tidehunter,Radiant,No,2,16,17
 6774769290,2022-09-25 00:30,104608913,Y O S E N,Bloodseeker,Dire,Yes,17,10,26
 6774769290,2022-09-25 00:30,371248693,_TwoGirls_,Pudge,Dire,Yes,32,5,26
 6774769290,2022-09-25 00:30,212155110,люблю худых,Io,Dire,Yes,4,5,40
-6774769290,2022-09-25 00:30,207865369,ластхит по перхот,Dawnbreaker,Dire,Yes,3,8,28
+6774769290,2022-09-25 00:30,207865369,ластхит по перхот,Mars,Dire,Yes,3,8,28
 6774769290,2022-09-25 00:30,37615683,Snake-Jazzman,Lich,Dire,Yes,8,13,28
 6776291692,2022-09-25 19:58,35394283,Xocccp,Ursa,Radiant,No,8,11,3
 6776291692,2022-09-25 19:58,44019880,Atzik,Witch Doctor,Radiant,No,5,12,7
-6776291692,2022-09-25 19:58,110621494,teo,Primal Beast,Radiant,No,3,13,12
+6776291692,2022-09-25 19:58,110621494,teo,Dawnbreaker,Radiant,No,3,13,12
 6776291692,2022-09-25 19:58,132943958,Жора Пасатижи,Jakiro,Radiant,No,6,8,13
 6776291692,2022-09-25 19:58,371248693,_TwoGirls_,Outworld Destroyer,Radiant,No,3,8,5
 6776291692,2022-09-25 19:58,34226035,StrongLeg,Undying,Dire,Yes,10,5,28
@@ -509,16 +509,16 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 6785874242,2022-10-01 23:49,110621494,teo,Bristleback,Dire,Yes,9,12,19
 6785874242,2022-10-01 23:49,48804856,Булка с маком,Pugna,Dire,Yes,9,7,21
 6785874242,2022-10-01 23:49,1051278052,Blessed,Lifestealer,Dire,Yes,12,2,16
-6785944838,2022-10-02 00:54,34226035,StrongLeg,Grimstroke,Radiant,No,8,8,23
+6785944838,2022-10-02 00:54,34226035,StrongLeg,Pangolier,Radiant,No,8,8,23
 6785944838,2022-10-02 00:54,37615683,Snake-Jazzman,Lich,Radiant,No,5,14,16
-6785944838,2022-10-02 00:54,110621494,teo,Pangolier,Radiant,No,16,12,13
+6785944838,2022-10-02 00:54,110621494,teo,Monkey King,Radiant,No,16,12,13
 6785944838,2022-10-02 00:54,1051278052,Blessed,Shadow Fiend,Radiant,No,15,11,16
 6785944838,2022-10-02 00:54,900250698,PISYA,Shadow Shaman,Radiant,No,5,20,13
 6785944838,2022-10-02 00:54,35394283,Xocccp,Drow Ranger,Dire,Yes,21,8,21
 6785944838,2022-10-02 00:54,44019880,Atzik,Witch Doctor,Dire,Yes,14,15,24
 6785944838,2022-10-02 00:54,207865369,ластхит по перхот,Hoodwink,Dire,Yes,7,6,32
 6785944838,2022-10-02 00:54,104608913,Y O S E N,Queen of Pain,Dire,Yes,16,3,30
-6785944838,2022-10-02 00:54,48804856,Булка с маком,Primal Beast,Dire,Yes,6,17,24
+6785944838,2022-10-02 00:54,48804856,Булка с маком,Dawnbreaker,Dire,Yes,6,17,24
 6787502671,2022-10-02 21:26,35394283,Xocccp,Pudge,Radiant,No,8,11,11
 6787502671,2022-10-02 21:26,132943958,Жора Пасатижи,Batrider,Radiant,No,10,8,8
 6787502671,2022-10-02 21:26,44019880,Atzik,Jakiro,Radiant,No,5,8,14
@@ -540,7 +540,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 6787600955,2022-10-02 22:37,244273380,Vicont,Shadow Shaman,Dire,No,3,13,13
 6787600955,2022-10-02 22:37,156524895,Frya-rya,Ogre Magi,Dire,No,3,11,14
 6790715358,2022-10-04 22:58,35394283,Xocccp,Lina,Radiant,No,19,12,6
-6790715358,2022-10-04 22:58,34226035,StrongLeg,Dawnbreaker,Radiant,No,6,6,21
+6790715358,2022-10-04 22:58,34226035,StrongLeg,Mars,Radiant,No,6,6,21
 6790715358,2022-10-04 22:58,110621494,teo,Drow Ranger,Radiant,No,6,8,13
 6790715358,2022-10-04 22:58,37615683,Snake-Jazzman,Lich,Radiant,No,4,17,11
 6790715358,2022-10-04 22:58,222691357,Boos1k,Pudge,Radiant,No,4,14,16
@@ -571,9 +571,9 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 6793784433,2022-10-06 23:22,37615683,Snake-Jazzman,Lich,Dire,Yes,0,0,0
 6795368217,2022-10-08 00:02,132943958,Жора Пасатижи,Tidehunter,Radiant,Yes,4,7,22
 6795368217,2022-10-08 00:02,34226035,StrongLeg,Gyrocopter,Radiant,Yes,5,7,17
-6795368217,2022-10-08 00:02,53849319,OUHETTUR,Monkey King,Radiant,Yes,9,5,17
+6795368217,2022-10-08 00:02,53849319,OUHETTUR,Arc Warden,Radiant,Yes,9,5,17
 6795368217,2022-10-08 00:02,44019880,Atzik,Jakiro,Radiant,Yes,5,13,16
-6795368217,2022-10-08 00:02,290899434,Dark Prince,Earth Spirit,Radiant,Yes,17,10,19
+6795368217,2022-10-08 00:02,290899434,Dark Prince,Ember Spirit,Radiant,Yes,17,10,19
 6795368217,2022-10-08 00:02,35394283,Xocccp,Witch Doctor,Dire,No,6,12,10
 6795368217,2022-10-08 00:02,207865369,ластхит по перхот,Snapfire,Dire,No,9,9,18
 6795368217,2022-10-08 00:02,104608913,Y O S E N,Lifestealer,Dire,No,6,5,6
@@ -586,12 +586,12 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 6795414805,2022-10-08 00:53,34226035,StrongLeg,Vengeful Spirit,Radiant,No,8,15,29
 6795414805,2022-10-08 00:53,110621494,teo,Axe,Dire,Yes,18,12,22
 6795414805,2022-10-08 00:53,35394283,Xocccp,Silencer,Dire,Yes,11,16,28
-6795414805,2022-10-08 00:53,371248693,_TwoGirls_,Phoenix,Dire,Yes,7,9,13
+6795414805,2022-10-08 00:53,371248693,_TwoGirls_,Terrorblade,Dire,Yes,7,9,13
 6795414805,2022-10-08 00:53,207865369,ластхит по перхот,Hoodwink,Dire,Yes,8,10,24
 6795414805,2022-10-08 00:53,104608913,Y O S E N,Death Prophet,Dire,Yes,14,3,22
 6809228178,2022-10-16 23:56,35394283,Xocccp,Drow Ranger,Radiant,No,4,13,13
 6809228178,2022-10-16 23:56,44019880,Atzik,Witch Doctor,Radiant,No,12,11,7
-6809228178,2022-10-16 23:56,53849319,OUHETTUR,Monkey King,Radiant,No,12,1,12
+6809228178,2022-10-16 23:56,53849319,OUHETTUR,Arc Warden,Radiant,No,12,1,12
 6809228178,2022-10-16 23:56,110621494,teo,Night Stalker,Radiant,No,5,14,12
 6809228178,2022-10-16 23:56,222691357,Boos1k,Pudge,Radiant,No,9,13,10
 6809228178,2022-10-16 23:56,207865369,ластхит по перхот,Vengeful Spirit,Dire,Yes,0,14,21
@@ -601,13 +601,13 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 6809228178,2022-10-16 23:56,134638730,diesel,Puck,Dire,Yes,22,1,19
 7232223718,2023-07-07 23:18,230727902,WTF,Phantom Assassin,Radiant,No,0,9,6
 7232223718,2023-07-07 23:18,44019880,Atzik,Witch Doctor,Radiant,No,8,15,5
-7232223718,2023-07-07 23:18,48804856,Булка с маком,Primal Beast,Radiant,No,8,16,9
+7232223718,2023-07-07 23:18,48804856,Булка с маком,Dawnbreaker,Radiant,No,8,16,9
 7232223718,2023-07-07 23:18,104608913,Y O S E N,Leshrac,Radiant,No,3,10,9
-7232223718,2023-07-07 23:18,207865369,ластхит по перхот,Ember Spirit,Radiant,No,5,11,15
-7232223718,2023-07-07 23:18,132943958,Жора Пасатижи,Arc Warden,Dire,Yes,9,0,26
+7232223718,2023-07-07 23:18,207865369,ластхит по перхот,Techies,Radiant,No,5,11,15
+7232223718,2023-07-07 23:18,132943958,Жора Пасатижи,Winter Wyvern,Dire,Yes,9,0,26
 7232223718,2023-07-07 23:18,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Dire,Yes,12,5,27
 7232223718,2023-07-07 23:18,34226035,StrongLeg,Spirit Breaker,Dire,Yes,9,8,27
-7232223718,2023-07-07 23:18,371248693,_TwoGirls_,Oracle,Dire,Yes,19,8,31
+7232223718,2023-07-07 23:18,371248693,_TwoGirls_,Phoenix,Dire,Yes,19,8,31
 7232223718,2023-07-07 23:18,110621494,teo,Phantom Lancer,Dire,Yes,12,3,8
 7232274325,2023-07-08 00:09,34226035,StrongLeg,Void Spirit,Radiant,Yes,8,3,7
 7232274325,2023-07-08 00:09,132943958,Жора Пасатижи,Undying,Radiant,Yes,2,4,20
@@ -617,7 +617,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7232274325,2023-07-08 00:09,230727902,WTF,Faceless Void,Dire,No,4,6,10
 7232274325,2023-07-08 00:09,48804856,Булка с маком,Pugna,Dire,No,6,11,4
 7232274325,2023-07-08 00:09,44019880,Atzik,Jakiro,Dire,No,2,8,11
-7232274325,2023-07-08 00:09,207865369,ластхит по перхот,Dawnbreaker,Dire,No,1,5,6
+7232274325,2023-07-08 00:09,207865369,ластхит по перхот,Mars,Dire,No,1,5,6
 7232274325,2023-07-08 00:09,104608913,Y O S E N,Windranger,Dire,No,5,9,5
 7232312864,2023-07-08 00:54,230727902,WTF,Pudge,Radiant,Yes,16,6,17
 7232312864,2023-07-08 00:54,48804856,Булка с маком,Pugna,Radiant,Yes,2,6,19
@@ -627,7 +627,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7232312864,2023-07-08 00:54,371248693,_TwoGirls_,Outworld Destroyer,Dire,No,20,6,1
 7232312864,2023-07-08 00:54,132943958,Жора Пасатижи,Lich,Dire,No,3,16,16
 7232312864,2023-07-08 00:54,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Dire,No,2,11,11
-7232312864,2023-07-08 00:54,34226035,StrongLeg,Grimstroke,Dire,No,4,10,15
+7232312864,2023-07-08 00:54,34226035,StrongLeg,Pangolier,Dire,No,4,10,15
 7232312864,2023-07-08 00:54,110621494,teo,Slark,Dire,No,3,10,15
 7233765171,2023-07-09 00:00,230727902,WTF,Pudge,Radiant,Yes,11,3,28
 7233765171,2023-07-09 00:00,48804856,Булка с маком,Pugna,Radiant,Yes,17,5,28
@@ -660,29 +660,29 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7233855652,2023-07-09 01:47,207865369,ластхит по перхот,Centaur Warrunner,Dire,Yes,9,7,30
 7233855652,2023-07-09 01:47,104608913,Y O S E N,Spectre,Dire,Yes,19,1,24
 7255590108,2023-07-24 23:04,207865369,ластхит по перхот,ID:137,Radiant,No,9,9,15
-7255590108,2023-07-24 23:04,44019880,Atzik,Mars,Radiant,No,2,8,14
+7255590108,2023-07-24 23:04,44019880,Atzik,Grimstroke,Radiant,No,2,8,14
 7255590108,2023-07-24 23:04,371248693,_TwoGirls_,Zeus,Radiant,No,10,9,11
 7255590108,2023-07-24 23:04,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Shadow Shaman,Radiant,No,0,13,15
 7255590108,2023-07-24 23:04,104608913,Y O S E N,Bloodseeker,Radiant,No,11,8,8
-7255590108,2023-07-24 23:04,53849319,OUHETTUR,Underlord,Dire,Yes,4,5,33
+7255590108,2023-07-24 23:04,53849319,OUHETTUR,Earth Spirit,Dire,Yes,4,5,33
 7255590108,2023-07-24 23:04,34226035,StrongLeg,Windranger,Dire,Yes,9,7,20
-7255590108,2023-07-24 23:04,48804856,Булка с маком,Primal Beast,Dire,Yes,12,10,20
+7255590108,2023-07-24 23:04,48804856,Булка с маком,Dawnbreaker,Dire,Yes,12,10,20
 7255590108,2023-07-24 23:04,110621494,teo,Phantom Lancer,Dire,Yes,13,4,14
 7255590108,2023-07-24 23:04,60333333,CAPITAH CBIH,Disruptor,Dire,Yes,7,7,30
 7256821119,2023-07-25 22:15,230727902,WTF,Juggernaut,Radiant,Yes,9,4,10
 7256821119,2023-07-25 22:15,34226035,StrongLeg,Undying,Radiant,Yes,11,2,33
 7256821119,2023-07-25 22:15,110621494,teo,Night Stalker,Radiant,Yes,11,4,15
-7256821119,2023-07-25 22:15,53849319,OUHETTUR,Underlord,Radiant,Yes,9,5,25
+7256821119,2023-07-25 22:15,53849319,OUHETTUR,Earth Spirit,Radiant,Yes,9,5,25
 7256821119,2023-07-25 22:15,1168515991,gin,Void Spirit,Radiant,Yes,11,3,15
 7256821119,2023-07-25 22:15,44019880,Atzik,Witch Doctor,Dire,No,0,15,11
 7256821119,2023-07-25 22:15,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Shadow Shaman,Dire,No,1,13,6
 7256821119,2023-07-25 22:15,371248693,_TwoGirls_,Outworld Destroyer,Dire,No,8,11,4
 7256821119,2023-07-25 22:15,207865369,ластхит по перхот,Spirit Breaker,Dire,No,2,6,6
 7256821119,2023-07-25 22:15,104608913,Y O S E N,Ursa,Dire,No,7,7,7
-7256882581,2023-07-25 23:13,230727902,WTF,Ember Spirit,Radiant,Yes,10,5,19
-7256882581,2023-07-25 23:13,1168515991,gin,Dawnbreaker,Radiant,Yes,12,4,17
+7256882581,2023-07-25 23:13,230727902,WTF,Techies,Radiant,Yes,10,5,19
+7256882581,2023-07-25 23:13,1168515991,gin,Mars,Radiant,Yes,12,4,17
 7256882581,2023-07-25 23:13,110621494,teo,Ursa,Radiant,Yes,5,2,10
-7256882581,2023-07-25 23:13,53849319,OUHETTUR,Monkey King,Radiant,Yes,15,2,21
+7256882581,2023-07-25 23:13,53849319,OUHETTUR,Arc Warden,Radiant,Yes,15,2,21
 7256882581,2023-07-25 23:13,34226035,StrongLeg,Disruptor,Radiant,Yes,6,6,26
 7256882581,2023-07-25 23:13,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Axe,Dire,No,3,10,9
 7256882581,2023-07-25 23:13,371248693,_TwoGirls_,Outworld Destroyer,Dire,No,7,10,5
@@ -703,7 +703,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7262139561,2023-07-29 20:28,104608913,Y O S E N,Death Prophet,Radiant,Yes,9,3,18
 7262139561,2023-07-29 20:28,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Lich,Radiant,Yes,5,12,15
 7262139561,2023-07-29 20:28,207865369,ластхит по перхот,Tidehunter,Radiant,Yes,7,2,24
-7262139561,2023-07-29 20:28,141842258,GOD OF DOTA,Ember Spirit,Radiant,Yes,6,6,17
+7262139561,2023-07-29 20:28,141842258,GOD OF DOTA,Techies,Radiant,Yes,6,6,17
 7262139561,2023-07-29 20:28,110621494,teo,Medusa,Dire,No,5,4,10
 7262139561,2023-07-29 20:28,34226035,StrongLeg,Disruptor,Dire,No,1,12,16
 7262139561,2023-07-29 20:28,48804856,Булка с маком,Witch Doctor,Dire,No,7,12,13
@@ -715,7 +715,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7262214096,2023-07-29 21:24,104608913,Y O S E N,Slark,Radiant,Yes,18,7,15
 7262214096,2023-07-29 21:24,141842258,GOD OF DOTA,Spirit Breaker,Radiant,Yes,9,10,27
 7262214096,2023-07-29 21:24,110621494,teo,Anti-Mage,Dire,No,12,6,23
-7262214096,2023-07-29 21:24,371248693,_TwoGirls_,Oracle,Dire,No,14,14,27
+7262214096,2023-07-29 21:24,371248693,_TwoGirls_,Phoenix,Dire,No,14,14,27
 7262214096,2023-07-29 21:24,253235627,Железный человек,Doom,Dire,No,12,13,24
 7262214096,2023-07-29 21:24,34226035,StrongLeg,Lich,Dire,No,10,9,34
 7262214096,2023-07-29 21:24,48804856,Булка с маком,Pugna,Dire,No,7,10,30
@@ -730,7 +730,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7262328315,2023-07-29 22:58,104608913,Y O S E N,Outworld Destroyer,Dire,Yes,20,2,13
 7262328315,2023-07-29 22:58,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Dire,Yes,6,4,21
 7262398850,2023-07-30 00:04,230727902,WTF,Lifestealer,Radiant,No,9,7,10
-7262398850,2023-07-30 00:04,48804856,Булка с маком,Primal Beast,Radiant,No,5,11,15
+7262398850,2023-07-30 00:04,48804856,Булка с маком,Dawnbreaker,Radiant,No,5,11,15
 7262398850,2023-07-30 00:04,253235627,Железный человек,Queen of Pain,Radiant,No,12,9,8
 7262398850,2023-07-30 00:04,141842258,GOD OF DOTA,Ancient Apparition,Radiant,No,5,11,22
 7262398850,2023-07-30 00:04,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Radiant,No,2,13,18
@@ -740,7 +740,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7262398850,2023-07-30 00:04,34226035,StrongLeg,Legion Commander,Dire,Yes,12,10,29
 7262398850,2023-07-30 00:04,371248693,_TwoGirls_,Disruptor,Dire,Yes,9,11,32
 7263837302,2023-07-30 22:12,230727902,WTF,Pudge,Radiant,No,11,12,9
-7263837302,2023-07-30 22:12,371248693,_TwoGirls_,Oracle,Radiant,No,17,7,14
+7263837302,2023-07-30 22:12,371248693,_TwoGirls_,Phoenix,Radiant,No,17,7,14
 7263837302,2023-07-30 22:12,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Radiant,No,2,9,26
 7263837302,2023-07-30 22:12,34226035,StrongLeg,Phantom Lancer,Radiant,No,9,9,8
 7263837302,2023-07-30 22:12,37615683,Snake-Jazzman,Lich,Radiant,No,2,10,13
@@ -749,15 +749,15 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7263837302,2023-07-30 22:12,141842258,GOD OF DOTA,Undying,Dire,Yes,6,9,29
 7263837302,2023-07-30 22:12,104608913,Y O S E N,Puck,Dire,Yes,10,7,24
 7263837302,2023-07-30 22:12,110621494,teo,Sniper,Dire,Yes,15,5,23
-7266615017,2023-08-01 22:54,104608913,Y O S E N,Pangolier,Radiant,Yes,22,6,20
+7266615017,2023-08-01 22:54,104608913,Y O S E N,Monkey King,Radiant,Yes,22,6,20
 7266615017,2023-08-01 22:54,207865369,ластхит по перхот,Undying,Radiant,Yes,7,10,37
 7266615017,2023-08-01 22:54,110621494,teo,Wraith King,Radiant,Yes,11,5,33
-7266615017,2023-08-01 22:54,34226035,StrongLeg,Terrorblade,Radiant,Yes,8,11,37
+7266615017,2023-08-01 22:54,34226035,StrongLeg,Underlord,Radiant,Yes,8,11,37
 7266615017,2023-08-01 22:54,132943958,Жора Пасатижи,Enchantress,Radiant,Yes,10,10,25
 7266615017,2023-08-01 22:54,230727902,WTF,Slark,Dire,No,10,8,13
 7266615017,2023-08-01 22:54,371248693,_TwoGirls_,Lina,Dire,No,12,11,15
 7266615017,2023-08-01 22:54,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Dire,No,1,15,22
-7266615017,2023-08-01 22:54,141842258,GOD OF DOTA,Ember Spirit,Dire,No,14,9,15
+7266615017,2023-08-01 22:54,141842258,GOD OF DOTA,Techies,Dire,No,14,9,15
 7266615017,2023-08-01 22:54,48804856,Булка с маком,Pudge,Dire,No,3,15,17
 7272041857,2023-08-05 21:06,206408650,Маратик,Snapfire,Radiant,Yes,4,6,14
 7272041857,2023-08-05 21:06,357310828,Hoo Lee Sheet,Windranger,Radiant,Yes,12,4,14
@@ -768,29 +768,29 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7272041857,2023-08-05 21:06,207865369,ластхит по перхот,Undying,Dire,No,2,6,8
 7272041857,2023-08-05 21:06,110621494,teo,Lone Druid,Dire,No,3,5,5
 7272041857,2023-08-05 21:06,48804856,Булка с маком,Pugna,Dire,No,3,13,11
-7272041857,2023-08-05 21:06,34226035,StrongLeg,Terrorblade,Dire,No,0,5,12
+7272041857,2023-08-05 21:06,34226035,StrongLeg,Underlord,Dire,No,0,5,12
 7304809657,2023-08-26 21:03,44019880,Atzik,Jakiro,Radiant,Yes,9,10,39
 7304809657,2023-08-26 21:03,34226035,StrongLeg,Faceless Void,Radiant,Yes,14,6,30
-7304809657,2023-08-26 21:03,48804856,Булка с маком,Primal Beast,Radiant,Yes,18,12,32
+7304809657,2023-08-26 21:03,48804856,Булка с маком,Dawnbreaker,Radiant,Yes,18,12,32
 7304809657,2023-08-26 21:03,371248693,_TwoGirls_,Ancient Apparition,Radiant,Yes,18,9,30
 7304809657,2023-08-26 21:03,37615683,Snake-Jazzman,Lich,Radiant,Yes,4,6,32
 7304809657,2023-08-26 21:03,230727902,WTF,Pudge,Dire,No,5,20,19
 7304809657,2023-08-26 21:03,104608913,Y O S E N,Outworld Destroyer,Dire,No,20,12,12
 7304809657,2023-08-26 21:03,110621494,teo,Medusa,Dire,No,3,8,18
 7304809657,2023-08-26 21:03,207865369,ластхит по перхот,Warlock,Dire,No,6,10,26
-7304809657,2023-08-26 21:03,141842258,GOD OF DOTA,Ember Spirit,Dire,No,9,14,12
+7304809657,2023-08-26 21:03,141842258,GOD OF DOTA,Techies,Dire,No,9,14,12
 7304937995,2023-08-26 22:32,230727902,WTF,Ursa,Radiant,Yes,18,11,19
 7304937995,2023-08-26 22:32,104608913,Y O S E N,Lycan,Radiant,Yes,16,3,29
 7304937995,2023-08-26 22:32,110621494,teo,Night Stalker,Radiant,Yes,6,8,26
 7304937995,2023-08-26 22:32,207865369,ластхит по перхот,Disruptor,Radiant,Yes,3,4,45
 7304937995,2023-08-26 22:32,141842258,GOD OF DOTA,Silencer,Radiant,Yes,17,3,32
 7304937995,2023-08-26 22:32,44019880,Atzik,Witch Doctor,Dire,No,3,14,11
-7304937995,2023-08-26 22:32,48804856,Булка с маком,Primal Beast,Dire,No,3,14,13
+7304937995,2023-08-26 22:32,48804856,Булка с маком,Dawnbreaker,Dire,No,3,14,13
 7304937995,2023-08-26 22:32,37615683,Snake-Jazzman,Lich,Dire,No,4,15,9
 7304937995,2023-08-26 22:32,34226035,StrongLeg,Bloodseeker,Dire,No,5,9,4
 7304937995,2023-08-26 22:32,371248693,_TwoGirls_,Sniper,Dire,No,14,11,4
 7309934180,2023-08-29 22:24,230727902,WTF,Disruptor,Radiant,Yes,4,11,34
-7309934180,2023-08-29 22:24,371248693,_TwoGirls_,Phoenix,Radiant,Yes,20,6,9
+7309934180,2023-08-29 22:24,371248693,_TwoGirls_,Terrorblade,Radiant,Yes,20,6,9
 7309934180,2023-08-29 22:24,104608913,Y O S E N,Gyrocopter,Radiant,Yes,11,8,14
 7309934180,2023-08-29 22:24,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Nature's Prophet,Radiant,Yes,6,18,23
 7309934180,2023-08-29 22:24,207865369,ластхит по перхот,Tidehunter,Radiant,Yes,6,9,28
@@ -800,11 +800,11 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7309934180,2023-08-29 22:24,162531060,Stone,Bristleback,Dire,No,9,9,9
 7309934180,2023-08-29 22:24,253235627,Железный человек,Windranger,Dire,No,16,5,19
 7310055835,2023-08-30 00:08,230727902,WTF,Weaver,Radiant,No,9,8,21
-7310055835,2023-08-30 00:08,371248693,_TwoGirls_,Arc Warden,Radiant,No,22,7,13
+7310055835,2023-08-30 00:08,371248693,_TwoGirls_,Winter Wyvern,Radiant,No,22,7,13
 7310055835,2023-08-30 00:08,48804856,Булка с маком,Jakiro,Radiant,No,8,12,26
 7310055835,2023-08-30 00:08,37615683,Snake-Jazzman,Ogre Magi,Radiant,No,1,13,21
 7310055835,2023-08-30 00:08,110621494,teo,Legion Commander,Radiant,No,7,16,19
-7310055835,2023-08-30 00:08,44019880,Atzik,Mars,Dire,Yes,3,13,39
+7310055835,2023-08-30 00:08,44019880,Atzik,Grimstroke,Dire,Yes,3,13,39
 7310055835,2023-08-30 00:08,207865369,ластхит по перхот,Necrophos,Dire,Yes,13,8,32
 7310055835,2023-08-30 00:08,34226035,StrongLeg,Drow Ranger,Dire,Yes,17,5,27
 7310055835,2023-08-30 00:08,104608913,Y O S E N,Death Prophet,Dire,Yes,12,5,35
@@ -818,8 +818,8 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7502678977,2023-12-23 21:25,104608913,Y O S E N,Lifestealer,Dire,Yes,14,1,10
 7502678977,2023-12-23 21:25,207865369,ластхит по перхот,Zeus,Dire,Yes,9,3,13
 7502678977,2023-12-23 21:25,110621494,teo,Wraith King,Dire,Yes,5,4,17
-7502678977,2023-12-23 21:25,44019880,Atzik,Mars,Dire,Yes,3,6,20
-7502745498,2023-12-23 22:12,35394283,Xocccp,Ember Spirit,Radiant,No,7,14,11
+7502678977,2023-12-23 21:25,44019880,Atzik,Grimstroke,Dire,Yes,3,6,20
+7502745498,2023-12-23 22:12,35394283,Xocccp,Techies,Radiant,No,7,14,11
 7502745498,2023-12-23 22:12,48804856,Булка с маком,Pugna,Radiant,No,7,10,9
 7502745498,2023-12-23 22:12,94035796,Rome,Vengeful Spirit,Radiant,No,2,12,13
 7502745498,2023-12-23 22:12,253235627,Железный человек,Kunkka,Radiant,No,7,8,12
@@ -838,7 +838,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7502855926,2023-12-23 23:39,132943958,Жора Пасатижи,Earthshaker,Dire,No,0,0,2
 7502855926,2023-12-23 23:39,44019880,Atzik,Ancient Apparition,Dire,No,0,0,1
 7502855926,2023-12-23 23:39,110621494,teo,Phantom Lancer,Dire,No,0,0,2
-7502855926,2023-12-23 23:39,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Mars,Dire,No,3,1,0
+7502855926,2023-12-23 23:39,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Grimstroke,Dire,No,3,1,0
 7536243938,2024-01-13 23:52,37615683,Snake-Jazzman,Lich,Radiant,No,1,14,13
 7536243938,2024-01-13 23:52,48804856,Булка с маком,Pudge,Radiant,No,8,14,8
 7536243938,2024-01-13 23:52,44019880,Atzik,Jakiro,Radiant,No,3,12,14
@@ -849,13 +849,13 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7536243938,2024-01-13 23:52,34226035,StrongLeg,Silencer,Dire,Yes,10,7,38
 7536243938,2024-01-13 23:52,207865369,ластхит по перхот,Centaur Warrunner,Dire,Yes,15,8,29
 7536243938,2024-01-13 23:52,104608913,Y O S E N,Death Prophet,Dire,Yes,20,3,28
-7536315346,2024-01-14 00:53,44019880,Atzik,Mars,Radiant,Yes,1,3,16
+7536315346,2024-01-14 00:53,44019880,Atzik,Grimstroke,Radiant,Yes,1,3,16
 7536315346,2024-01-14 00:53,59850816,86-й,Clinkz,Radiant,Yes,10,4,19
-7536315346,2024-01-14 00:53,48804856,Булка с маком,Primal Beast,Radiant,Yes,6,6,17
+7536315346,2024-01-14 00:53,48804856,Булка с маком,Dawnbreaker,Radiant,Yes,6,6,17
 7536315346,2024-01-14 00:53,62575637,KeS.Jr.,Nature's Prophet,Radiant,Yes,9,7,17
 7536315346,2024-01-14 00:53,110621494,teo,Anti-Mage,Radiant,Yes,11,1,10
 7536315346,2024-01-14 00:53,35394283,Xocccp,Wraith King,Dire,No,7,7,11
-7536315346,2024-01-14 00:53,207865369,ластхит по перхот,Dawnbreaker,Dire,No,1,5,8
+7536315346,2024-01-14 00:53,207865369,ластхит по перхот,Mars,Dire,No,1,5,8
 7536315346,2024-01-14 00:53,37615683,Snake-Jazzman,Shadow Shaman,Dire,No,3,11,8
 7536315346,2024-01-14 00:53,34226035,StrongLeg,Ancient Apparition,Dire,No,2,8,13
 7536315346,2024-01-14 00:53,104608913,Y O S E N,Zeus,Dire,No,8,6,9
@@ -867,7 +867,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7537937432,2024-01-14 22:29,35394283,Xocccp,Pudge,Dire,No,9,16,14
 7537937432,2024-01-14 22:29,34226035,StrongLeg,Lich,Dire,No,7,8,21
 7537937432,2024-01-14 22:29,94035796,Rome,Viper,Dire,No,6,9,24
-7537937432,2024-01-14 22:29,48804856,Булка с маком,Primal Beast,Dire,No,9,14,19
+7537937432,2024-01-14 22:29,48804856,Булка с маком,Dawnbreaker,Dire,No,9,14,19
 7537937432,2024-01-14 22:29,110621494,teo,Spectre,Dire,No,11,9,17
 7538005803,2024-01-14 23:27,35394283,Xocccp,Rubick,Radiant,No,3,13,14
 7538005803,2024-01-14 23:27,94035796,Rome,Treant Protector,Radiant,No,1,5,23
@@ -884,8 +884,8 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7538065174,2024-01-15 00:26,110621494,teo,Lone Druid,Radiant,Yes,11,2,9
 7538065174,2024-01-15 00:26,94035796,Rome,Spirit Breaker,Radiant,Yes,3,6,26
 7538065174,2024-01-15 00:26,34226035,StrongLeg,Vengeful Spirit,Radiant,Yes,1,8,30
-7538065174,2024-01-15 00:26,44019880,Atzik,Mars,Dire,No,2,9,14
-7538065174,2024-01-15 00:26,62575637,KeS.Jr.,Ember Spirit,Dire,No,6,10,16
+7538065174,2024-01-15 00:26,44019880,Atzik,Grimstroke,Dire,No,2,9,14
+7538065174,2024-01-15 00:26,62575637,KeS.Jr.,Techies,Dire,No,6,10,16
 7538065174,2024-01-15 00:26,59850816,86-й,Venomancer,Dire,No,9,11,12
 7538065174,2024-01-15 00:26,104608913,Y O S E N,Dark Willow,Dire,No,9,7,10
 7538065174,2024-01-15 00:26,207865369,ластхит по перхот,ID:137,Dire,No,3,10,13
@@ -895,19 +895,19 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7539390890,2024-01-15 22:49,59850816,86-й,Pugna,Radiant,Yes,17,2,24
 7539390890,2024-01-15 22:49,62575637,KeS.Jr.,Spirit Breaker,Radiant,Yes,7,8,25
 7539390890,2024-01-15 22:49,35394283,Xocccp,Pudge,Dire,No,5,12,13
-7539390890,2024-01-15 22:49,48804856,Булка с маком,Primal Beast,Dire,No,2,14,22
+7539390890,2024-01-15 22:49,48804856,Булка с маком,Dawnbreaker,Dire,No,2,14,22
 7539390890,2024-01-15 22:49,53849319,OUHETTUR,Necrophos,Dire,No,15,8,12
 7539390890,2024-01-15 22:49,110621494,teo,Phantom Assassin,Dire,No,10,7,13
-7539390890,2024-01-15 22:49,34226035,StrongLeg,Mars,Dire,No,0,10,21
+7539390890,2024-01-15 22:49,34226035,StrongLeg,Grimstroke,Dire,No,0,10,21
 7539445476,2024-01-15 23:39,35394283,Xocccp,Wraith King,Radiant,Yes,8,1,12
 7539445476,2024-01-15 23:39,110621494,teo,Sniper,Radiant,Yes,23,3,14
 7539445476,2024-01-15 23:39,48804856,Булка с маком,Kunkka,Radiant,Yes,6,5,22
 7539445476,2024-01-15 23:39,34226035,StrongLeg,Silencer,Radiant,Yes,8,3,25
-7539445476,2024-01-15 23:39,53849319,OUHETTUR,Underlord,Radiant,Yes,7,3,30
+7539445476,2024-01-15 23:39,53849319,OUHETTUR,Earth Spirit,Radiant,Yes,7,3,30
 7539445476,2024-01-15 23:39,62575637,KeS.Jr.,Gyrocopter,Dire,No,3,13,7
 7539445476,2024-01-15 23:39,207865369,ластхит по перхот,Beastmaster,Dire,No,1,11,6
 7539445476,2024-01-15 23:39,104608913,Y O S E N,Chaos Knight,Dire,No,1,8,6
-7539445476,2024-01-15 23:39,44019880,Atzik,Mars,Dire,No,3,10,6
+7539445476,2024-01-15 23:39,44019880,Atzik,Grimstroke,Dire,No,3,10,6
 7539445476,2024-01-15 23:39,59850816,86-й,Luna,Dire,No,6,10,6
 7545299389,2024-01-20 00:02,37615683,Snake-Jazzman,Lich,Radiant,No,4,12,11
 7545299389,2024-01-20 00:02,110621494,teo,Anti-Mage,Radiant,No,5,11,9
@@ -918,22 +918,22 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7545299389,2024-01-20 00:02,207865369,ластхит по перхот,Crystal Maiden,Dire,Yes,7,5,34
 7545299389,2024-01-20 00:02,35394283,Xocccp,Phantom Assassin,Dire,Yes,16,4,12
 7545299389,2024-01-20 00:02,48804856,Булка с маком,Pudge,Dire,Yes,12,7,30
-7545299389,2024-01-20 00:02,94035796,Rome,Arc Warden,Dire,Yes,14,4,16
+7545299389,2024-01-20 00:02,94035796,Rome,Winter Wyvern,Dire,Yes,14,4,16
 7545360879,2024-01-20 00:59,35394283,Xocccp,Earthshaker,Radiant,Yes,6,9,11
 7545360879,2024-01-20 00:59,37615683,Snake-Jazzman,Lich,Radiant,Yes,5,6,24
-7545360879,2024-01-20 00:59,207865369,ластхит по перхот,Oracle,Radiant,Yes,2,4,36
+7545360879,2024-01-20 00:59,207865369,ластхит по перхот,Phoenix,Radiant,Yes,2,4,36
 7545360879,2024-01-20 00:59,104608913,Y O S E N,Huskar,Radiant,Yes,23,7,14
 7545360879,2024-01-20 00:59,34226035,StrongLeg,Lifestealer,Radiant,Yes,16,0,17
 7545360879,2024-01-20 00:59,44019880,Atzik,Jakiro,Dire,No,4,12,13
 7545360879,2024-01-20 00:59,62575637,KeS.Jr.,Spirit Breaker,Dire,No,3,11,14
 7545360879,2024-01-20 00:59,94035796,Rome,Weaver,Dire,No,2,4,13
-7545360879,2024-01-20 00:59,48804856,Булка с маком,Primal Beast,Dire,No,4,15,12
+7545360879,2024-01-20 00:59,48804856,Булка с маком,Dawnbreaker,Dire,No,4,15,12
 7545360879,2024-01-20 00:59,110621494,teo,Storm Spirit,Dire,No,8,10,5
 7545418329,2024-01-20 02:05,35394283,Xocccp,Juggernaut,Radiant,Yes,18,7,10
 7545418329,2024-01-20 02:05,34226035,StrongLeg,Tidehunter,Radiant,Yes,12,7,36
 7545418329,2024-01-20 02:05,48804856,Булка с маком,Crystal Maiden,Radiant,Yes,3,16,31
 7545418329,2024-01-20 02:05,94035796,Rome,Lina,Radiant,Yes,12,9,16
-7545418329,2024-01-20 02:05,53849319,OUHETTUR,Underlord,Radiant,Yes,8,9,31
+7545418329,2024-01-20 02:05,53849319,OUHETTUR,Earth Spirit,Radiant,Yes,8,9,31
 7545418329,2024-01-20 02:05,62575637,KeS.Jr.,Shadow Shaman,Dire,No,5,15,24
 7545418329,2024-01-20 02:05,110621494,teo,Spectre,Dire,No,15,7,17
 7545418329,2024-01-20 02:05,59850816,86-й,Elder Titan,Dire,No,10,12,18
@@ -941,16 +941,16 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7545418329,2024-01-20 02:05,35240930,Y,Pudge,Dire,No,6,9,16
 7551589289,2024-01-23 22:46,132943958,Жора Пасатижи,Sniper,Radiant,Yes,12,4,15
 7551589289,2024-01-23 22:46,62575637,KeS.Jr.,Doom,Radiant,Yes,9,6,32
-7551589289,2024-01-23 22:46,44019880,Atzik,Mars,Radiant,Yes,2,6,28
+7551589289,2024-01-23 22:46,44019880,Atzik,Grimstroke,Radiant,Yes,2,6,28
 7551589289,2024-01-23 22:46,48804856,Булка с маком,Crystal Maiden,Radiant,Yes,13,5,19
 7551589289,2024-01-23 22:46,1040093158,hyco,Bloodseeker,Radiant,Yes,14,4,21
 7551589289,2024-01-23 22:46,35394283,Xocccp,Rubick,Dire,No,3,13,14
 7551589289,2024-01-23 22:46,104608913,Y O S E N,Lina,Dire,No,8,7,10
 7551589289,2024-01-23 22:46,207865369,ластхит по перхот,Centaur Warrunner,Dire,No,7,10,13
-7551589289,2024-01-23 22:46,34226035,StrongLeg,Arc Warden,Dire,No,4,14,12
+7551589289,2024-01-23 22:46,34226035,StrongLeg,Winter Wyvern,Dire,No,4,14,12
 7551589289,2024-01-23 22:46,110621494,teo,Phantom Lancer,Dire,No,3,6,11
 7551664235,2024-01-23 23:59,48804856,Булка с маком,Lion,Radiant,No,7,13,6
-7551664235,2024-01-23 23:59,34226035,StrongLeg,Terrorblade,Radiant,No,4,7,10
+7551664235,2024-01-23 23:59,34226035,StrongLeg,Underlord,Radiant,No,4,7,10
 7551664235,2024-01-23 23:59,1040093158,hyco,Zeus,Radiant,No,2,8,5
 7551664235,2024-01-23 23:59,132943958,Жора Пасатижи,Nature's Prophet,Radiant,No,4,10,5
 7551664235,2024-01-23 23:59,37615683,Snake-Jazzman,Lich,Radiant,No,0,15,7
@@ -962,11 +962,11 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7557431337,2024-01-27 21:54,48804856,Булка с маком,Crystal Maiden,Radiant,Yes,4,12,20
 7557431337,2024-01-27 21:54,253235627,Железный человек,Magnus,Radiant,Yes,16,5,24
 7557431337,2024-01-27 21:54,110621494,teo,Sniper,Radiant,Yes,14,5,28
-7557431337,2024-01-27 21:54,44019880,Atzik,Mars,Radiant,Yes,6,9,29
-7557431337,2024-01-27 21:54,34226035,StrongLeg,Grimstroke,Radiant,Yes,20,2,27
+7557431337,2024-01-27 21:54,44019880,Atzik,Grimstroke,Radiant,Yes,6,9,29
+7557431337,2024-01-27 21:54,34226035,StrongLeg,Pangolier,Radiant,Yes,20,2,27
 7557431337,2024-01-27 21:54,62575637,KeS.Jr.,Lion,Dire,No,5,15,11
 7557431337,2024-01-27 21:54,104608913,Y O S E N,Bristleback,Dire,No,9,12,9
-7557431337,2024-01-27 21:54,207865369,ластхит по перхот,Dawnbreaker,Dire,No,3,8,12
+7557431337,2024-01-27 21:54,207865369,ластхит по перхот,Mars,Dire,No,3,8,12
 7557431337,2024-01-27 21:54,35394283,Xocccp,Clinkz,Dire,No,11,13,14
 7557431337,2024-01-27 21:54,37615683,Snake-Jazzman,Lich,Dire,No,5,12,14
 7557507459,2024-01-27 22:48,35394283,Xocccp,Lifestealer,Radiant,Yes,15,2,14
@@ -976,7 +976,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7557507459,2024-01-27 22:48,104608913,Y O S E N,Outworld Destroyer,Radiant,Yes,14,5,16
 7557507459,2024-01-27 22:48,48804856,Булка с маком,Crystal Maiden,Dire,No,2,11,15
 7557507459,2024-01-27 22:48,110621494,teo,Phantom Lancer,Dire,No,10,4,8
-7557507459,2024-01-27 22:48,34226035,StrongLeg,Earth Spirit,Dire,No,3,10,12
+7557507459,2024-01-27 22:48,34226035,StrongLeg,Ember Spirit,Dire,No,3,10,12
 7557507459,2024-01-27 22:48,44019880,Atzik,Lich,Dire,No,5,12,9
 7557507459,2024-01-27 22:48,253235627,Железный человек,Magnus,Dire,No,2,9,11
 7557618376,2024-01-28 00:13,35394283,Xocccp,Lifestealer,Radiant,No,25,16,26
@@ -987,10 +987,10 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7557618376,2024-01-28 00:13,110621494,teo,Axe,Dire,Yes,22,13,25
 7557618376,2024-01-28 00:13,48804856,Булка с маком,Pudge,Dire,Yes,11,20,41
 7557618376,2024-01-28 00:13,132943958,Жора Пасатижи,Razor,Dire,Yes,24,7,38
-7557618376,2024-01-28 00:13,44019880,Atzik,Mars,Dire,Yes,6,17,36
-7557618376,2024-01-28 00:13,34226035,StrongLeg,Grimstroke,Dire,Yes,13,11,38
+7557618376,2024-01-28 00:13,44019880,Atzik,Grimstroke,Dire,Yes,6,17,36
+7557618376,2024-01-28 00:13,34226035,StrongLeg,Pangolier,Dire,Yes,13,11,38
 7559168751,2024-01-28 22:03,48804856,Булка с маком,Pudge,Radiant,No,2,9,9
-7559168751,2024-01-28 22:03,34226035,StrongLeg,Kez,Radiant,No,6,13,9
+7559168751,2024-01-28 22:03,34226035,StrongLeg,Marci,Radiant,No,6,13,9
 7559168751,2024-01-28 22:03,62575637,KeS.Jr.,Abaddon,Radiant,No,2,5,10
 7559168751,2024-01-28 22:03,37615683,Snake-Jazzman,Lich,Radiant,No,4,8,9
 7559168751,2024-01-28 22:03,35394283,Xocccp,Juggernaut,Radiant,No,2,8,7
@@ -1006,7 +1006,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7559238144,2024-01-28 22:57,34226035,StrongLeg,Templar Assassin,Radiant,No,5,4,7
 7559238144,2024-01-28 22:57,94035796,Rome,Vengeful Spirit,Dire,Yes,3,4,16
 7559238144,2024-01-28 22:57,110621494,teo,Sven,Dire,Yes,17,6,8
-7559238144,2024-01-28 22:57,207865369,ластхит по перхот,Mars,Dire,Yes,2,6,27
+7559238144,2024-01-28 22:57,207865369,ластхит по перхот,Grimstroke,Dire,Yes,2,6,27
 7559238144,2024-01-28 22:57,104608913,Y O S E N,Death Prophet,Dire,Yes,6,2,25
 7559238144,2024-01-28 22:57,253235627,Железный человек,Night Stalker,Dire,Yes,11,2,17
 7559316969,2024-01-29 00:09,371248693,_TwoGirls_,Storm Spirit,Radiant,No,22,11,7
@@ -1014,7 +1014,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7559316969,2024-01-29 00:09,62575637,KeS.Jr.,Spirit Breaker,Radiant,No,9,9,22
 7559316969,2024-01-29 00:09,94035796,Rome,Sand King,Radiant,No,5,7,25
 7559316969,2024-01-29 00:09,34226035,StrongLeg,Luna,Radiant,No,9,9,5
-7559316969,2024-01-29 00:09,35394283,Xocccp,Ember Spirit,Dire,Yes,7,8,19
+7559316969,2024-01-29 00:09,35394283,Xocccp,Techies,Dire,Yes,7,8,19
 7559316969,2024-01-29 00:09,44019880,Atzik,Witch Doctor,Dire,Yes,6,12,23
 7559316969,2024-01-29 00:09,212155110,люблю худых,Anti-Mage,Dire,Yes,22,5,12
 7559316969,2024-01-29 00:09,110621494,teo,Zeus,Dire,Yes,7,13,26
@@ -1022,13 +1022,13 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7559374159,2024-01-29 01:15,110621494,teo,Zeus,Radiant,No,14,12,17
 7559374159,2024-01-29 01:15,37615683,Snake-Jazzman,Lich,Radiant,No,0,14,22
 7559374159,2024-01-29 01:15,212155110,люблю худых,Lifestealer,Radiant,No,14,10,9
-7559374159,2024-01-29 01:15,94035796,Rome,Arc Warden,Radiant,No,7,12,16
+7559374159,2024-01-29 01:15,94035796,Rome,Winter Wyvern,Radiant,No,7,12,16
 7559374159,2024-01-29 01:15,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Radiant,No,5,19,21
 7559374159,2024-01-29 01:15,35394283,Xocccp,Spirit Breaker,Dire,Yes,9,8,29
 7559374159,2024-01-29 01:15,44019880,Atzik,Witch Doctor,Dire,Yes,12,9,32
 7559374159,2024-01-29 01:15,371248693,_TwoGirls_,Spectre,Dire,Yes,22,10,33
 7559374159,2024-01-29 01:15,48804856,Булка с маком,Kunkka,Dire,Yes,4,10,21
-7559374159,2024-01-29 01:15,34226035,StrongLeg,Grimstroke,Dire,Yes,19,4,27
+7559374159,2024-01-29 01:15,34226035,StrongLeg,Pangolier,Dire,Yes,19,4,27
 7567941674,2024-02-03 21:08,104608913,Y O S E N,Razor,Radiant,Yes,9,4,29
 7567941674,2024-02-03 21:08,207865369,ластхит по перхот,Tidehunter,Radiant,Yes,12,3,38
 7567941674,2024-02-03 21:08,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Radiant,Yes,6,8,22
@@ -1043,14 +1043,14 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7568065868,2024-02-03 22:31,110621494,teo,Lifestealer,Radiant,No,13,11,14
 7568065868,2024-02-03 22:31,37615683,Snake-Jazzman,Lich,Radiant,No,4,11,21
 7568065868,2024-02-03 22:31,141842258,GOD OF DOTA,Wraith King,Radiant,No,5,8,24
-7568065868,2024-02-03 22:31,371248693,_TwoGirls_,Monkey King,Radiant,No,3,10,14
+7568065868,2024-02-03 22:31,371248693,_TwoGirls_,Arc Warden,Radiant,No,3,10,14
 7568065868,2024-02-03 22:31,34226035,StrongLeg,Phantom Lancer,Dire,Yes,10,4,15
 7568065868,2024-02-03 22:31,207865369,ластхит по перхот,Centaur Warrunner,Dire,Yes,2,8,30
 7568065868,2024-02-03 22:31,48804856,Булка с маком,Pudge,Dire,Yes,10,7,14
 7568065868,2024-02-03 22:31,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Dire,Yes,8,8,21
 7568065868,2024-02-03 22:31,104608913,Y O S E N,Necrophos,Dire,Yes,9,5,20
 7568186592,2024-02-04 00:01,110621494,teo,Ursa,Radiant,No,9,12,10
-7568186592,2024-02-04 00:01,48804856,Булка с маком,Primal Beast,Radiant,No,9,17,17
+7568186592,2024-02-04 00:01,48804856,Булка с маком,Dawnbreaker,Radiant,No,9,17,17
 7568186592,2024-02-04 00:01,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Radiant,No,5,14,21
 7568186592,2024-02-04 00:01,94035796,Rome,Lina,Radiant,No,6,13,16
 7568186592,2024-02-04 00:01,141842258,GOD OF DOTA,Ancient Apparition,Radiant,No,7,11,21
@@ -1058,21 +1058,21 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7568186592,2024-02-04 00:01,37615683,Snake-Jazzman,Lich,Dire,Yes,11,8,30
 7568186592,2024-02-04 00:01,104608913,Y O S E N,Snapfire,Dire,Yes,13,7,21
 7568186592,2024-02-04 00:01,34226035,StrongLeg,Dragon Knight,Dire,Yes,9,6,33
-7568186592,2024-02-04 00:01,371248693,_TwoGirls_,Oracle,Dire,Yes,19,10,31
+7568186592,2024-02-04 00:01,371248693,_TwoGirls_,Phoenix,Dire,Yes,19,10,31
 7605931720,2024-02-24 23:25,35394283,Xocccp,Faceless Void,Radiant,No,13,8,10
 7605931720,2024-02-24 23:25,110621494,teo,Omniknight,Radiant,No,8,7,14
 7605931720,2024-02-24 23:25,62575637,KeS.Jr.,Nature's Prophet,Radiant,No,8,9,20
 7605931720,2024-02-24 23:25,44019880,Atzik,Jakiro,Radiant,No,9,12,18
 7605931720,2024-02-24 23:25,48804856,Булка с маком,Pudge,Radiant,No,4,13,9
-7605931720,2024-02-24 23:25,104608913,Y O S E N,Pangolier,Dire,Yes,11,15,12
-7605931720,2024-02-24 23:25,132943958,Жора Пасатижи,Arc Warden,Dire,Yes,7,11,17
+7605931720,2024-02-24 23:25,104608913,Y O S E N,Monkey King,Dire,Yes,11,15,12
+7605931720,2024-02-24 23:25,132943958,Жора Пасатижи,Winter Wyvern,Dire,Yes,7,11,17
 7605931720,2024-02-24 23:25,37615683,Snake-Jazzman,Lich,Dire,Yes,4,10,29
 7605931720,2024-02-24 23:25,53849319,OUHETTUR,Alchemist,Dire,Yes,13,3,21
 7605931720,2024-02-24 23:25,34226035,StrongLeg,Lifestealer,Dire,Yes,14,4,17
 7611146864,2024-02-27 21:49,253235627,Железный человек,Timbersaw,Radiant,Yes,8,5,26
-7611146864,2024-02-27 21:49,44019880,Atzik,Mars,Radiant,Yes,6,3,27
+7611146864,2024-02-27 21:49,44019880,Atzik,Grimstroke,Radiant,Yes,6,3,27
 7611146864,2024-02-27 21:49,62575637,KeS.Jr.,Chaos Knight,Radiant,Yes,11,7,16
-7611146864,2024-02-27 21:49,53849319,OUHETTUR,Earth Spirit,Radiant,Yes,10,1,22
+7611146864,2024-02-27 21:49,53849319,OUHETTUR,Ember Spirit,Radiant,Yes,10,1,22
 7611146864,2024-02-27 21:49,257326716,elv1n777,Witch Doctor,Radiant,Yes,15,4,20
 7611146864,2024-02-27 21:49,35394283,Xocccp,Juggernaut,Dire,No,4,9,5
 7611146864,2024-02-27 21:49,110621494,teo,Omniknight,Dire,No,3,10,7
@@ -1084,7 +1084,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7611221400,2024-02-27 22:45,35394283,Xocccp,Pudge,Radiant,Yes,4,11,31
 7611221400,2024-02-27 22:45,48804856,Булка с маком,Kunkka,Radiant,Yes,14,14,29
 7611221400,2024-02-27 22:45,34226035,StrongLeg,Undying,Radiant,Yes,5,9,36
-7611221400,2024-02-27 22:45,53849319,OUHETTUR,Oracle,Dire,No,8,10,22
+7611221400,2024-02-27 22:45,53849319,OUHETTUR,Phoenix,Dire,No,8,10,22
 7611221400,2024-02-27 22:45,253235627,Железный человек,Timbersaw,Dire,No,13,14,20
 7611221400,2024-02-27 22:45,62575637,KeS.Jr.,Gyrocopter,Dire,No,3,9,29
 7611221400,2024-02-27 22:45,257326716,elv1n777,Hoodwink,Dire,No,7,11,22
@@ -1106,7 +1106,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 7642492857,2024-03-17 22:33,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Radiant,No,15,11,11
 7642492857,2024-03-17 22:33,35394283,Xocccp,Wraith King,Dire,Yes,22,7,33
 7642492857,2024-03-17 22:33,110621494,teo,Omniknight,Dire,Yes,14,9,21
-7642492857,2024-03-17 22:33,34226035,StrongLeg,Mars,Dire,Yes,7,9,54
+7642492857,2024-03-17 22:33,34226035,StrongLeg,Grimstroke,Dire,Yes,7,9,54
 7642492857,2024-03-17 22:33,104608913,Y O S E N,Puck,Dire,Yes,14,7,21
 7642492857,2024-03-17 22:33,207865369,ластхит по перхот,Snapfire,Dire,Yes,11,13,27
 7642592337,2024-03-17 23:56,35394283,Xocccp,Clinkz,Radiant,Yes,22,5,14
@@ -1125,7 +1125,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8568365982,2025-11-20 21:44,371248693,_TwoGirls_,Skywrath Mage,Radiant,No,22,10,15
 8568365982,2025-11-20 21:44,141842258,GOD OF DOTA,Dragon Knight,Radiant,No,13,9,20
 8568365982,2025-11-20 21:44,431403751,Георгий,Ursa,Dire,Yes,33,5,16
-8568365982,2025-11-20 21:44,48804856,Булка с маком,Primal Beast,Dire,Yes,4,19,38
+8568365982,2025-11-20 21:44,48804856,Булка с маком,Dawnbreaker,Dire,Yes,4,19,38
 8568365982,2025-11-20 21:44,62575637,KeS.Jr.,Weaver,Dire,Yes,15,16,20
 8568365982,2025-11-20 21:44,104608913,Y O S E N,Outworld Destroyer,Dire,Yes,16,9,19
 8568365982,2025-11-20 21:44,207865369,ластхит по перхот,Jakiro,Dire,Yes,5,7,45
@@ -1139,7 +1139,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8568521923,2025-11-20 23:49,110621494,teo,Sniper,Dire,Yes,12,4,28
 8568521923,2025-11-20 23:49,141842258,GOD OF DOTA,Viper,Dire,Yes,21,4,20
 8568521923,2025-11-20 23:49,371248693,_TwoGirls_,Sven,Dire,Yes,6,8,20
-8573499200,2025-11-23 21:18,230727902,WTF,Primal Beast,Radiant,No,1,6,3
+8573499200,2025-11-23 21:18,230727902,WTF,Dawnbreaker,Radiant,No,1,6,3
 8573499200,2025-11-23 21:18,207865369,ластхит по перхот,Snapfire,Radiant,No,0,4,4
 8573499200,2025-11-23 21:18,104608913,Y O S E N,Morphling,Radiant,No,0,4,1
 8573499200,2025-11-23 21:18,431403751,Георгий,Windranger,Radiant,No,4,7,2
@@ -1150,7 +1150,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8573499200,2025-11-23 21:18,110621494,teo,Warlock,Dire,Yes,3,1,15
 8573499200,2025-11-23 21:18,62575637,KeS.Jr.,Abaddon,Dire,Yes,2,1,12
 8573562529,2025-11-23 22:02,230727902,WTF,Lion,Radiant,No,4,13,15
-8573562529,2025-11-23 22:02,207865369,ластхит по перхот,Terrorblade,Radiant,No,1,15,16
+8573562529,2025-11-23 22:02,207865369,ластхит по перхот,Underlord,Radiant,No,1,15,16
 8573562529,2025-11-23 22:02,431403751,Георгий,Medusa,Radiant,No,8,7,18
 8573562529,2025-11-23 22:02,44019880,Atzik,Witch Doctor,Radiant,No,8,12,15
 8573562529,2025-11-23 22:02,104608913,Y O S E N,Queen of Pain,Radiant,No,10,10,7
@@ -1164,7 +1164,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8574948350,2025-11-24 20:24,48804856,Булка с маком,Pudge,Radiant,No,7,8,15
 8574948350,2025-11-24 20:24,230727902,WTF,Lina,Radiant,No,11,10,5
 8574948350,2025-11-24 20:24,207865369,ластхит по перхот,Crystal Maiden,Radiant,No,9,8,23
-8574948350,2025-11-24 20:24,44019880,Atzik,Mars,Dire,Yes,3,14,18
+8574948350,2025-11-24 20:24,44019880,Atzik,Grimstroke,Dire,Yes,3,14,18
 8574948350,2025-11-24 20:24,110621494,teo,Sniper,Dire,Yes,6,10,19
 8574948350,2025-11-24 20:24,1267424676,BIG{BOSS},Weaver,Dire,Yes,12,6,18
 8574948350,2025-11-24 20:24,371248693,_TwoGirls_,Storm Spirit,Dire,Yes,15,7,17
@@ -1173,8 +1173,8 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8575062351,2025-11-24 21:44,207865369,ластхит по перхот,Centaur Warrunner,Radiant,No,5,10,19
 8575062351,2025-11-24 21:44,62575637,KeS.Jr.,Jakiro,Radiant,No,7,11,20
 8575062351,2025-11-24 21:44,48804856,Булка с маком,Earthshaker,Radiant,No,8,15,11
-8575062351,2025-11-24 21:44,104608913,Y O S E N,Pangolier,Radiant,No,16,8,10
-8575062351,2025-11-24 21:44,44019880,Atzik,Mars,Dire,Yes,1,12,33
+8575062351,2025-11-24 21:44,104608913,Y O S E N,Monkey King,Radiant,No,16,8,10
+8575062351,2025-11-24 21:44,44019880,Atzik,Grimstroke,Dire,Yes,1,12,33
 8575062351,2025-11-24 21:44,37615683,Snake-Jazzman,Shadow Shaman,Dire,Yes,3,11,26
 8575062351,2025-11-24 21:44,110621494,teo,Lone Druid,Dire,Yes,9,9,16
 8575062351,2025-11-24 21:44,431403751,Георгий,Night Stalker,Dire,Yes,13,5,24
@@ -1207,16 +1207,16 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8578049216,2025-11-26 22:52,35394283,Xocccp,Wraith King,Dire,No,0,4,1
 8578049216,2025-11-26 22:52,48804856,Булка с маком,Earthshaker,Dire,No,3,4,2
 8578049216,2025-11-26 22:52,207865369,ластхит по перхот,Lion,Dire,No,2,6,1
-8578049216,2025-11-26 22:52,379332014,Ironside,Mars,Dire,No,0,7,4
+8578049216,2025-11-26 22:52,379332014,Ironside,Grimstroke,Dire,No,0,7,4
 8578049216,2025-11-26 22:52,104608913,Y O S E N,Storm Spirit,Dire,No,1,4,3
 8578109353,2025-11-26 23:45,110621494,teo,Night Stalker,Radiant,Yes,10,9,14
 8578109353,2025-11-26 23:45,431403751,Георгий,Anti-Mage,Radiant,Yes,5,7,9
 8578109353,2025-11-26 23:45,371248693,_TwoGirls_,Necrophos,Radiant,Yes,28,4,14
-8578109353,2025-11-26 23:45,44019880,Atzik,Mars,Radiant,Yes,5,17,21
-8578109353,2025-11-26 23:45,62575637,KeS.Jr.,Muerta,Radiant,Yes,4,9,33
+8578109353,2025-11-26 23:45,44019880,Atzik,Grimstroke,Radiant,Yes,5,17,21
+8578109353,2025-11-26 23:45,62575637,KeS.Jr.,Ringmaster,Radiant,Yes,4,9,33
 8578109353,2025-11-26 23:45,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Dire,No,6,6,18
 8578109353,2025-11-26 23:45,207865369,ластхит по перхот,Lich,Dire,No,3,14,30
-8578109353,2025-11-26 23:45,48804856,Булка с маком,Primal Beast,Dire,No,10,11,23
+8578109353,2025-11-26 23:45,48804856,Булка с маком,Dawnbreaker,Dire,No,10,11,23
 8578109353,2025-11-26 23:45,104608913,Y O S E N,Spirit Breaker,Dire,No,12,12,19
 8578109353,2025-11-26 23:45,35394283,Xocccp,Phantom Assassin,Dire,No,13,9,5
 8579346284,2025-11-27 21:00,431403751,Георгий,Queen of Pain,Radiant,Yes,7,16,25
@@ -1227,15 +1227,15 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8579346284,2025-11-27 21:00,35394283,Xocccp,Earthshaker,Dire,No,5,13,21
 8579346284,2025-11-27 21:00,104608913,Y O S E N,Faceless Void,Dire,No,16,13,21
 8579346284,2025-11-27 21:00,207865369,ластхит по перхот,Windranger,Dire,No,13,11,29
-8579346284,2025-11-27 21:00,62575637,KeS.Jr.,Ember Spirit,Dire,No,8,16,27
+8579346284,2025-11-27 21:00,62575637,KeS.Jr.,Techies,Dire,No,8,16,27
 8579346284,2025-11-27 21:00,371248693,_TwoGirls_,Templar Assassin,Dire,No,24,10,17
 8606989941,2025-12-15 23:32,371248693,_TwoGirls_,Drow Ranger,Radiant,No,8,10,3
 8606989941,2025-12-15 23:32,62575637,KeS.Jr.,Bristleback,Radiant,No,1,16,10
 8606989941,2025-12-15 23:32,132943958,Жора Пасатижи,Snapfire,Radiant,No,9,10,5
-8606989941,2025-12-15 23:32,199157120,Sphinx,Primal Beast,Radiant,No,2,10,10
+8606989941,2025-12-15 23:32,199157120,Sphinx,Dawnbreaker,Radiant,No,2,10,10
 8606989941,2025-12-15 23:32,44019880,Atzik,Treant Protector,Radiant,No,0,12,14
-8606989941,2025-12-15 23:32,141842258,GOD OF DOTA,Pangolier,Dire,Yes,23,4,20
-8606989941,2025-12-15 23:32,110621494,teo,Terrorblade,Dire,Yes,8,0,35
+8606989941,2025-12-15 23:32,141842258,GOD OF DOTA,Monkey King,Dire,Yes,23,4,20
+8606989941,2025-12-15 23:32,110621494,teo,Underlord,Dire,Yes,8,0,35
 8606989941,2025-12-15 23:32,35394283,Xocccp,Witch Doctor,Dire,Yes,11,3,29
 8606989941,2025-12-15 23:32,104608913,Y O S E N,Razor,Dire,Yes,10,5,22
 8606989941,2025-12-15 23:32,207865369,ластхит по перхот,Disruptor,Dire,Yes,4,8,37
@@ -1245,7 +1245,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8611061530,2025-12-18 22:36,104608913,Y O S E N,Windranger,Radiant,Yes,15,3,15
 8611061530,2025-12-18 22:36,37615683,Snake-Jazzman,Shadow Shaman,Radiant,Yes,1,13,18
 8611061530,2025-12-18 22:36,35394283,Xocccp,Riki,Dire,No,9,11,12
-8611061530,2025-12-18 22:36,199157120,Sphinx,Mars,Dire,No,5,8,23
+8611061530,2025-12-18 22:36,199157120,Sphinx,Grimstroke,Dire,No,5,8,23
 8611061530,2025-12-18 22:36,48804856,Булка с маком,Earthshaker,Dire,No,3,14,16
 8611061530,2025-12-18 22:36,212155110,люблю худых,Largo,Dire,No,5,10,14
 8611061530,2025-12-18 22:36,371248693,_TwoGirls_,Dazzle,Dire,No,16,8,11
@@ -1275,10 +1275,10 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8614055591,2025-12-20 23:00,104608913,Y O S E N,Void Spirit,Radiant,Yes,10,3,38
 8614055591,2025-12-20 23:00,35394283,Xocccp,Pudge,Radiant,Yes,7,14,41
 8614055591,2025-12-20 23:00,59850816,86-й,Pugna,Dire,No,8,13,34
-8614055591,2025-12-20 23:00,44019880,Atzik,Mars,Dire,No,6,19,29
+8614055591,2025-12-20 23:00,44019880,Atzik,Grimstroke,Dire,No,6,19,29
 8614055591,2025-12-20 23:00,110621494,teo,Templar Assassin,Dire,No,20,11,17
 8614055591,2025-12-20 23:00,371248693,_TwoGirls_,Queen of Pain,Dire,No,11,10,20
-8614055591,2025-12-20 23:00,103024977,Argos,Primal Beast,Dire,No,6,15,29
+8614055591,2025-12-20 23:00,103024977,Argos,Dawnbreaker,Dire,No,6,15,29
 8618375834,2025-12-23 23:18,44019880,Atzik,Jakiro,Radiant,No,1,11,13
 8618375834,2025-12-23 23:18,62575637,KeS.Jr.,Gyrocopter,Radiant,No,6,10,10
 8618375834,2025-12-23 23:18,54997148,ОрбитальноеГовно,Enigma,Radiant,No,1,12,14
@@ -1303,7 +1303,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8632436167,2026-01-02 22:26,199157120,Sphinx,Razor,Radiant,Yes,7,11,21
 8632436167,2026-01-02 22:26,37615683,Snake-Jazzman,Lich,Radiant,Yes,8,10,25
 8632436167,2026-01-02 22:26,48804856,Булка с маком,Witch Doctor,Radiant,Yes,15,13,29
-8632436167,2026-01-02 22:26,999719297,криштиану наумов,Dawnbreaker,Radiant,Yes,8,5,31
+8632436167,2026-01-02 22:26,999719297,криштиану наумов,Mars,Radiant,Yes,8,5,31
 8632436167,2026-01-02 22:26,110621494,teo,Lone Druid,Dire,No,11,10,9
 8632436167,2026-01-02 22:26,104608913,Y O S E N,Shadow Fiend,Dire,No,13,7,6
 8632436167,2026-01-02 22:26,44019880,Atzik,Shadow Shaman,Dire,No,5,17,23
@@ -1317,14 +1317,14 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8632516734,2026-01-02 23:30,48804856,Булка с маком,Pugna,Dire,No,7,22,15
 8632516734,2026-01-02 23:30,37615683,Snake-Jazzman,Lich,Dire,No,4,20,16
 8632516734,2026-01-02 23:30,199157120,Sphinx,Ursa,Dire,No,7,15,13
-8632516734,2026-01-02 23:30,999719297,криштиану наумов,Dawnbreaker,Dire,No,5,15,21
+8632516734,2026-01-02 23:30,999719297,криштиану наумов,Mars,Dire,No,5,15,21
 8632516734,2026-01-02 23:30,431403751,Георгий,Queen of Pain,Dire,No,11,13,15
 8632592176,2026-01-03 00:35,35394283,Xocccp,Weaver,Radiant,No,10,8,5
 8632592176,2026-01-03 00:35,132943958,Жора Пасатижи,Snapfire,Radiant,No,5,12,11
 8632592176,2026-01-03 00:35,110621494,teo,Night Stalker,Radiant,No,0,10,14
 8632592176,2026-01-03 00:35,104608913,Y O S E N,Phantom Assassin,Radiant,No,8,7,6
 8632592176,2026-01-03 00:35,37615683,Snake-Jazzman,Lich,Radiant,No,1,12,9
-8632592176,2026-01-03 00:35,48804856,Булка с маком,Primal Beast,Dire,Yes,8,6,26
+8632592176,2026-01-03 00:35,48804856,Булка с маком,Dawnbreaker,Dire,Yes,8,6,26
 8632592176,2026-01-03 00:35,54997148,ОрбитальноеГовно,Pudge,Dire,Yes,3,6,25
 8632592176,2026-01-03 00:35,62575637,KeS.Jr.,Rubick,Dire,Yes,4,7,17
 8632592176,2026-01-03 00:35,1596915844,ttkg.,Ursa,Dire,Yes,27,4,5
@@ -1346,7 +1346,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8638215217,2026-01-06 21:23,431403751,Георгий,Windranger,Radiant,No,9,5,12
 8638215217,2026-01-06 21:23,1267424676,BIG{BOSS},Abaddon,Dire,Yes,11,5,16
 8638215217,2026-01-06 21:23,35394283,Xocccp,Clinkz,Dire,Yes,8,8,16
-8638215217,2026-01-06 21:23,104608913,Y O S E N,Dawnbreaker,Dire,Yes,8,4,26
+8638215217,2026-01-06 21:23,104608913,Y O S E N,Mars,Dire,Yes,8,4,26
 8638215217,2026-01-06 21:23,207865369,ластхит по перхот,Crystal Maiden,Dire,Yes,10,7,25
 8638215217,2026-01-06 21:23,62575637,KeS.Jr.,Nature's Prophet,Dire,Yes,12,14,20
 8638293139,2026-01-06 22:25,44019880,Atzik,Jakiro,Radiant,No,1,15,34
@@ -1359,8 +1359,8 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8638293139,2026-01-06 22:25,104608913,Y O S E N,Legion Commander,Dire,Yes,12,11,20
 8638293139,2026-01-06 22:25,62575637,KeS.Jr.,Gyrocopter,Dire,Yes,9,14,29
 8638293139,2026-01-06 22:25,207865369,ластхит по перхот,Windranger,Dire,Yes,8,11,22
-8638378470,2026-01-06 23:37,44019880,Atzik,Mars,Radiant,No,1,13,27
-8638378470,2026-01-06 23:37,132943958,Жора Пасатижи,Primal Beast,Radiant,No,10,10,20
+8638378470,2026-01-06 23:37,44019880,Atzik,Grimstroke,Radiant,No,1,13,27
+8638378470,2026-01-06 23:37,132943958,Жора Пасатижи,Dawnbreaker,Radiant,No,10,10,20
 8638378470,2026-01-06 23:37,110621494,teo,Sniper,Radiant,No,8,9,25
 8638378470,2026-01-06 23:37,431403751,Георгий,Necrophos,Radiant,No,14,12,17
 8638378470,2026-01-06 23:37,48804856,Булка с маком,Pugna,Radiant,No,7,12,14
@@ -1395,7 +1395,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8717198460,2026-03-05 22:40,431403751,Георгий,Pudge,Radiant,No,8,11,8
 8717198460,2026-03-05 22:40,48804856,Булка с маком,Kunkka,Radiant,No,5,10,13
 8717198460,2026-03-05 22:40,141842258,GOD OF DOTA,Magnus,Dire,Yes,12,4,21
-8717198460,2026-03-05 22:40,35394283,Xocccp,Ember Spirit,Dire,Yes,5,8,24
+8717198460,2026-03-05 22:40,35394283,Xocccp,Techies,Dire,Yes,5,8,24
 8717198460,2026-03-05 22:40,371248693,_TwoGirls_,Sven,Dire,Yes,16,3,11
 8717198460,2026-03-05 22:40,199157120,Sphinx,Sand King,Dire,Yes,4,4,22
 8717198460,2026-03-05 22:40,44019880,Atzik,Jakiro,Dire,Yes,9,10,24
@@ -1418,14 +1418,14 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8718523562,2026-03-06 23:08,35394283,Xocccp,Jakiro,Dire,Yes,7,8,39
 8718523562,2026-03-06 23:08,371248693,_TwoGirls_,Spectre,Dire,Yes,18,5,26
 8718523562,2026-03-06 23:08,110621494,teo,Sniper,Dire,Yes,19,6,30
-8718523562,2026-03-06 23:08,104608913,Y O S E N,Dawnbreaker,Dire,Yes,7,9,24
+8718523562,2026-03-06 23:08,104608913,Y O S E N,Mars,Dire,Yes,7,9,24
 8718583299,2026-03-07 00:05,431403751,Георгий,Lina,Radiant,No,4,9,10
-8718583299,2026-03-07 00:05,44019880,Atzik,Mars,Radiant,No,1,15,14
+8718583299,2026-03-07 00:05,44019880,Atzik,Grimstroke,Radiant,No,1,15,14
 8718583299,2026-03-07 00:05,1066851479,TT,Slardar,Radiant,No,5,6,6
 8718583299,2026-03-07 00:05,141842258,GOD OF DOTA,Kunkka,Radiant,No,4,8,15
 8718583299,2026-03-07 00:05,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Rubick,Radiant,No,11,9,11
 8718583299,2026-03-07 00:05,110621494,teo,Night Stalker,Dire,Yes,10,4,21
-8718583299,2026-03-07 00:05,292897734,ЧУПИК,Arc Warden,Dire,Yes,10,4,23
+8718583299,2026-03-07 00:05,292897734,ЧУПИК,Winter Wyvern,Dire,Yes,10,4,23
 8718583299,2026-03-07 00:05,104608913,Y O S E N,Windranger,Dire,Yes,13,4,17
 8718583299,2026-03-07 00:05,371248693,_TwoGirls_,Anti-Mage,Dire,Yes,5,7,15
 8718583299,2026-03-07 00:05,35394283,Xocccp,Witch Doctor,Dire,Yes,8,12,18
@@ -1445,9 +1445,9 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8722724078,2026-03-09 22:08,431403751,Георгий,Lion,Radiant,No,4,7,13
 8722724078,2026-03-09 22:08,62575637,KeS.Jr.,Jakiro,Radiant,No,7,12,17
 8722724078,2026-03-09 22:08,371248693,_TwoGirls_,Outworld Destroyer,Dire,Yes,18,6,9
-8722724078,2026-03-09 22:08,44019880,Atzik,Mars,Dire,Yes,2,8,40
+8722724078,2026-03-09 22:08,44019880,Atzik,Grimstroke,Dire,Yes,2,8,40
 8722724078,2026-03-09 22:08,110621494,teo,Sniper,Dire,Yes,11,6,27
-8722724078,2026-03-09 22:08,141842258,GOD OF DOTA,Pangolier,Dire,Yes,25,5,20
+8722724078,2026-03-09 22:08,141842258,GOD OF DOTA,Monkey King,Dire,Yes,25,5,20
 8722724078,2026-03-09 22:08,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Centaur Warrunner,Dire,Yes,1,7,35
 8722791395,2026-03-09 23:13,35394283,Xocccp,Riki,Radiant,Yes,15,10,22
 8722791395,2026-03-09 23:13,62575637,KeS.Jr.,Spirit Breaker,Radiant,Yes,13,8,40
@@ -1463,7 +1463,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8727644462,2026-03-13 22:26,44019880,Atzik,Witch Doctor,Radiant,No,9,7,11
 8727644462,2026-03-13 22:26,104608913,Y O S E N,Queen of Pain,Radiant,No,11,6,13
 8727644462,2026-03-13 22:26,34226035,StrongLeg,Razor,Radiant,No,8,10,18
-8727644462,2026-03-13 22:26,53849319,OUHETTUR,Oracle,Radiant,No,8,7,21
+8727644462,2026-03-13 22:26,53849319,OUHETTUR,Phoenix,Radiant,No,8,7,21
 8727644462,2026-03-13 22:26,37615683,Snake-Jazzman,Lich,Dire,Yes,3,14,12
 8727644462,2026-03-13 22:26,431403751,Георгий,Lifestealer,Dire,Yes,8,6,6
 8727644462,2026-03-13 22:26,199157120,Sphinx,Bristleback,Dire,Yes,4,4,15
@@ -1482,7 +1482,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8735774646,2026-03-19 23:23,104608913,Y O S E N,Void Spirit,Radiant,Yes,16,7,23
 8735774646,2026-03-19 23:23,110621494,teo,Lone Druid,Radiant,Yes,9,4,12
 8735774646,2026-03-19 23:23,34226035,StrongLeg,Warlock,Radiant,Yes,6,7,40
-8735774646,2026-03-19 23:23,53849319,OUHETTUR,Underlord,Radiant,Yes,11,7,45
+8735774646,2026-03-19 23:23,53849319,OUHETTUR,Earth Spirit,Radiant,Yes,11,7,45
 8735774646,2026-03-19 23:23,286307758,plin2k,Skywrath Mage,Radiant,Yes,16,7,31
 8735774646,2026-03-19 23:23,431403751,Георгий,Earthshaker,Dire,No,11,11,11
 8735774646,2026-03-19 23:23,37615683,Snake-Jazzman,Shadow Shaman,Dire,No,2,15,15
@@ -1516,7 +1516,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8739917908,2026-03-22 21:50,104608913,Y O S E N,Invoker,Radiant,No,11,7,7
 8739917908,2026-03-22 21:50,371248693,_TwoGirls_,Outworld Destroyer,Dire,Yes,15,5,9
 8739917908,2026-03-22 21:50,44019880,Atzik,Witch Doctor,Dire,Yes,14,10,17
-8739917908,2026-03-22 21:50,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Mars,Dire,Yes,6,7,21
+8739917908,2026-03-22 21:50,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Grimstroke,Dire,Yes,6,7,21
 8739917908,2026-03-22 21:50,103024977,Argos,Timbersaw,Dire,Yes,3,8,31
 8739917908,2026-03-22 21:50,110621494,teo,Templar Assassin,Dire,Yes,19,5,18
 8739985847,2026-03-22 22:49,431403751,Георгий,Slark,Radiant,No,12,8,13
@@ -1524,7 +1524,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8739985847,2026-03-22 22:49,104608913,Y O S E N,Undying,Radiant,No,5,15,21
 8739985847,2026-03-22 22:49,115702863,inst: parvizname,Sniper,Radiant,No,8,7,19
 8739985847,2026-03-22 22:49,35394283,Xocccp,Riki,Radiant,No,15,9,17
-8739985847,2026-03-22 22:49,371248693,_TwoGirls_,Oracle,Dire,Yes,18,10,26
+8739985847,2026-03-22 22:49,371248693,_TwoGirls_,Phoenix,Dire,Yes,18,10,26
 8739985847,2026-03-22 22:49,212155110,люблю худых,Io,Dire,Yes,5,7,35
 8739985847,2026-03-22 22:49,110621494,teo,Lone Druid,Dire,Yes,23,2,7
 8739985847,2026-03-22 22:49,44019880,Atzik,Tidehunter,Dire,Yes,3,12,22
@@ -1537,20 +1537,20 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8740042121,2026-03-22 23:44,110621494,teo,Sniper,Dire,No,10,10,19
 8740042121,2026-03-22 23:44,44019880,Atzik,Jakiro,Dire,No,2,21,29
 8740042121,2026-03-22 23:44,371248693,_TwoGirls_,Skywrath Mage,Dire,No,20,9,10
-8740042121,2026-03-22 23:44,212155110,люблю худых,Grimstroke,Dire,No,2,11,13
+8740042121,2026-03-22 23:44,212155110,люблю худых,Pangolier,Dire,No,2,11,13
 8740042121,2026-03-22 23:44,37615683,Snake-Jazzman,Lich,Dire,No,5,8,16
 8740087362,2026-03-23 00:37,431403751,Георгий,Troll Warlord,Radiant,No,12,12,12
 8740087362,2026-03-23 00:37,35394283,Xocccp,Disruptor,Radiant,No,8,10,22
-8740087362,2026-03-23 00:37,48804856,Булка с маком,Primal Beast,Radiant,No,11,15,18
+8740087362,2026-03-23 00:37,48804856,Булка с маком,Dawnbreaker,Radiant,No,11,15,18
 8740087362,2026-03-23 00:37,115702863,inst: parvizname,Invoker,Radiant,No,4,13,16
 8740087362,2026-03-23 00:37,34226035,StrongLeg,Vengeful Spirit,Radiant,No,3,11,26
 8740087362,2026-03-23 00:37,110621494,teo,Lion,Dire,Yes,7,7,32
-8740087362,2026-03-23 00:37,103024977,Argos,Dawnbreaker,Dire,Yes,6,9,21
+8740087362,2026-03-23 00:37,103024977,Argos,Mars,Dire,Yes,6,9,21
 8740087362,2026-03-23 00:37,44019880,Atzik,Witch Doctor,Dire,Yes,4,14,32
 8740087362,2026-03-23 00:37,371248693,_TwoGirls_,Skywrath Mage,Dire,Yes,27,5,15
 8740087362,2026-03-23 00:37,212155110,люблю худых,Anti-Mage,Dire,Yes,16,5,19
 8754897608,2026-04-02 22:06,44019880,Atzik,Witch Doctor,Radiant,Yes,7,5,20
-8754897608,2026-04-02 22:06,60333333,CAPITAH CBIH,Winter Wyvern,Radiant,Yes,1,5,25
+8754897608,2026-04-02 22:06,60333333,CAPITAH CBIH,Oracle,Radiant,Yes,1,5,25
 8754897608,2026-04-02 22:06,431403751,Георгий,Lina,Radiant,Yes,18,6,10
 8754897608,2026-04-02 22:06,141842258,GOD OF DOTA,Drow Ranger,Radiant,Yes,18,0,9
 8754897608,2026-04-02 22:06,110621494,teo,Legion Commander,Radiant,Yes,5,7,11
@@ -1563,7 +1563,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8754961651,2026-04-02 23:00,48804856,Булка с маком,Crystal Maiden,Radiant,Yes,5,8,21
 8754961651,2026-04-02 23:00,371248693,_TwoGirls_,Phantom Assassin,Radiant,Yes,30,5,7
 8754961651,2026-04-02 23:00,370550131,неотложка,Lion,Radiant,Yes,2,9,27
-8754961651,2026-04-02 23:00,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Mars,Radiant,Yes,5,11,25
+8754961651,2026-04-02 23:00,94204864,ИМПАКТ ИЗ ТАВЕРНЫ,Grimstroke,Radiant,Yes,5,11,25
 8754961651,2026-04-02 23:00,44019880,Atzik,Jakiro,Dire,No,5,13,14
 8754961651,2026-04-02 23:00,431403751,Георгий,Outworld Destroyer,Dire,No,12,8,2
 8754961651,2026-04-02 23:00,37615683,Snake-Jazzman,Lich,Dire,No,4,11,5
@@ -1585,7 +1585,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8756501545,2026-04-04 00:34,44019880,Atzik,Disruptor,Radiant,No,1,18,17
 8756501545,2026-04-04 00:34,1168515991,gin,Death Prophet,Radiant,No,10,8,10
 8756501545,2026-04-04 00:34,35394283,Xocccp,Mirana,Dire,Yes,7,6,35
-8756501545,2026-04-04 00:34,115702863,inst: parvizname,Oracle,Dire,Yes,11,5,16
+8756501545,2026-04-04 00:34,115702863,inst: parvizname,Phoenix,Dire,Yes,11,5,16
 8756501545,2026-04-04 00:34,177122169,SherAGRESSORR.twitch,Juggernaut,Dire,Yes,8,5,11
 8756501545,2026-04-04 00:34,286900954,pxkxmxlxdxy,Leshrac,Dire,Yes,18,6,15
 8756501545,2026-04-04 00:34,34226035,StrongLeg,Chaos Knight,Dire,Yes,17,4,13
@@ -1593,7 +1593,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8767657984,2026-04-11 22:38,103024977,Argos,Beastmaster,Radiant,No,5,9,5
 8767657984,2026-04-11 22:38,431403751,Георгий,Nature's Prophet,Radiant,No,5,6,3
 8767657984,2026-04-11 22:38,1869670988,ormotsadze95,Crystal Maiden,Radiant,No,0,9,2
-8767657984,2026-04-11 22:38,115702863,inst: parvizname,Monkey King,Radiant,No,4,6,4
+8767657984,2026-04-11 22:38,115702863,inst: parvizname,Arc Warden,Radiant,No,4,6,4
 8767657984,2026-04-11 22:38,44019880,Atzik,Jakiro,Dire,Yes,0,6,17
 8767657984,2026-04-11 22:38,34226035,StrongLeg,Leshrac,Dire,Yes,10,2,12
 8767657984,2026-04-11 22:38,132943958,Жора Пасатижи,Alchemist,Dire,Yes,5,2,27
@@ -1614,26 +1614,26 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8767773235,2026-04-12 00:13,110621494,teo,Weaver,Radiant,No,28,9,19
 8767773235,2026-04-12 00:13,44019880,Atzik,Hoodwink,Radiant,No,9,15,41
 8767773235,2026-04-12 00:13,34226035,StrongLeg,Skywrath Mage,Radiant,No,16,6,29
-8767773235,2026-04-12 00:13,35394283,Xocccp,Ember Spirit,Dire,Yes,10,16,24
+8767773235,2026-04-12 00:13,35394283,Xocccp,Techies,Dire,Yes,10,16,24
 8767773235,2026-04-12 00:13,48804856,Булка с маком,Jakiro,Dire,Yes,5,20,17
 8767773235,2026-04-12 00:13,431403751,Георгий,Medusa,Dire,Yes,16,6,11
 8767773235,2026-04-12 00:13,115702863,inst: parvizname,Broodmother,Dire,Yes,9,15,23
-8767773235,2026-04-12 00:13,103024977,Argos,Oracle,Dire,Yes,14,15,34
+8767773235,2026-04-12 00:13,103024977,Argos,Phoenix,Dire,Yes,14,15,34
 8767848614,2026-04-12 01:35,44019880,Atzik,Jakiro,Radiant,No,1,14,15
 8767848614,2026-04-12 01:35,132943958,Жора Пасатижи,Beastmaster,Radiant,No,13,6,11
 8767848614,2026-04-12 01:35,110621494,teo,Phantom Assassin,Radiant,No,10,11,8
 8767848614,2026-04-12 01:35,199157120,Sphinx,Tiny,Radiant,No,5,7,16
 8767848614,2026-04-12 01:35,34226035,StrongLeg,Clinkz,Radiant,No,5,11,10
 8767848614,2026-04-12 01:35,431403751,Георгий,Omniknight,Dire,Yes,17,2,15
-8767848614,2026-04-12 01:35,115702863,inst: parvizname,Pangolier,Dire,Yes,6,8,15
+8767848614,2026-04-12 01:35,115702863,inst: parvizname,Monkey King,Dire,Yes,6,8,15
 8767848614,2026-04-12 01:35,103024977,Argos,Bristleback,Dire,Yes,10,8,27
 8767848614,2026-04-12 01:35,48804856,Булка с маком,Witch Doctor,Dire,Yes,8,8,19
-8767848614,2026-04-12 01:35,35394283,Xocccp,Mars,Dire,Yes,8,8,23
+8767848614,2026-04-12 01:35,35394283,Xocccp,Grimstroke,Dire,Yes,8,8,23
 8774238406,2026-04-16 22:51,431403751,Георгий,Shadow Fiend,Radiant,No,6,5,11
 8774238406,2026-04-16 22:51,37615683,Snake-Jazzman,Lion,Radiant,No,4,12,11
 8774238406,2026-04-16 22:51,115702863,inst: parvizname,Axe,Radiant,No,11,11,12
 8774238406,2026-04-16 22:51,48804856,Булка с маком,Pudge,Radiant,No,6,14,15
-8774238406,2026-04-16 22:51,177122169,SherAGRESSORR.twitch,Phoenix,Radiant,No,8,7,12
+8774238406,2026-04-16 22:51,177122169,SherAGRESSORR.twitch,Terrorblade,Radiant,No,8,7,12
 8774238406,2026-04-16 22:51,35394283,Xocccp,Enigma,Dire,Yes,7,7,35
 8774238406,2026-04-16 22:51,113812446,Smailyxa,Ancient Apparition,Dire,Yes,4,11,25
 8774238406,2026-04-16 22:51,110621494,teo,Centaur Warrunner,Dire,Yes,7,8,37
@@ -1645,7 +1645,7 @@ match_id,date,account_id,nickname,hero,team,win,kills,deaths,assists
 8774298872,2026-04-16 23:59,115702863,inst: parvizname,Puck,Radiant,No,10,5,21
 8774298872,2026-04-16 23:59,177122169,SherAGRESSORR.twitch,Lifestealer,Radiant,No,15,8,14
 8774298872,2026-04-16 23:59,113812446,Smailyxa,Windranger,Dire,Yes,7,14,13
-8774298872,2026-04-16 23:59,35394283,Xocccp,Mars,Dire,Yes,12,9,26
+8774298872,2026-04-16 23:59,35394283,Xocccp,Grimstroke,Dire,Yes,12,9,26
 8774298872,2026-04-16 23:59,132943958,Жора Пасатижи,Tidehunter,Dire,Yes,3,9,32
 8774298872,2026-04-16 23:59,110621494,teo,Juggernaut,Dire,Yes,21,4,21
 8774298872,2026-04-16 23:59,34226035,StrongLeg,Templar Assassin,Dire,Yes,9,5,20
