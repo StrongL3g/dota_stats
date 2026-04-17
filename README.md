@@ -43,7 +43,7 @@
    PATH_INPUT_MATCHES=dota_ids_for_api.csv
    PATH_OUTPUT_REPORT=analytics_report.csv
    PATH_HERO_MAP=hero_id_map.json
-   ```
+
 ---
 
 ## 🚀 Использование
