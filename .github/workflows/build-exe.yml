@@ -1,0 +1,46 @@
+name: 📦 Build Windows EXE
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch: # Позволяет запускать сборку вручную из вкладки Actions
+
+jobs:
+  build:
+    runs-on: windows-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python 3.13
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: 📦 Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Устанавливаем только то, что реально использует GUI
+          pip install pandas numpy pyinstaller
+
+      - name: 🔍 Verify required files
+        run: |
+          if (-Not (Test-Path "gui_qwen.py")) { Write-Error "❌ gui_qwen.py не найден!"; exit 1 }
+          if (-Not (Test-Path "full_stats_report.csv")) { Write-Error "❌ full_stats_report.csv не найден!"; exit 1 }
+          Write-Host "✅ Все файлы на месте"
+
+      - name: 🛠 Build EXE with PyInstaller
+        run: |
+          pyinstaller --onefile --windowed --name "Dota2Stats" `
+            --add-data "full_stats_report.csv;." `
+            gui_qwen.py
+
+      - name: 📤 Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Dota2Stats-Windows
+          path: dist/Dota2Stats.exe
+          retention-days: 90

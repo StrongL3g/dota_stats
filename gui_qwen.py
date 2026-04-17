@@ -5,6 +5,13 @@ from tkinter import ttk, messagebox, StringVar
 import pandas as pd
 
 
+def get_resource_path(relative_path):
+    """Получить абсолютный путь к ресурсу (работает в IDE и в .exe)"""
+    if getattr(sys, 'frozen', False) and hasattr(sys, '_MEIPASS'):
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
+
+
 class PlayerDetailWindow(tk.Toplevel):
     def __init__(self, parent, account_id, nickname, df, player_stats):
         super().__init__(parent)
@@ -252,7 +259,7 @@ class DotaStatsGUI:
         self.root.geometry("1100x900")
         self.root.minsize(950, 700)
 
-        self.csv_path = os.path.join(os.getcwd(), "full_stats_report.csv")
+        self.csv_path = get_resource_path("full_stats_report.csv")
         self.df = None
         self.player_stats = None
         self.sort_order = {}
