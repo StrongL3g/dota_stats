@@ -27,33 +27,7 @@
 - Python 3.8 или выше
 - Браузер с доступом к Steam (Chrome, Firefox, Edge)
 - Аккаунт Steam с включённой двухфакторной аутентификацией *(рекомендуется)*
-- Доступ к странице: `[https://steamcommunity.com/my/gcpd/570](https://steamcommunity.com/id/Legid/gcpd/570?category=Matches&tab=PlayerMatchHistory)`
-
----
-
-## 📦 Установка
-
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/StrongL3g/dota_stats.git
-   cd dota_stats
-   ```
-
-2. Создайте и активируйте виртуальное окружение *(рекомендуется)*:
-   ```bash
-   python -m venv venv
-   # Windows:
-   venv\Scripts\activate
-   # Linux/macOS:
-   source venv/bin/activate
-   ```
-
-3. Установите зависимости:
-   ```bash
-   pip install -r requirements.txt
-   # Или вручную:
-   pip install dota2 steam python-dotenv
-   ```
+- Доступ к странице: `https://steamcommunity.com/id/Legid/gcpd/570?category=Matches&tab=PlayerMatchHistory`
 
 ---
 
@@ -70,9 +44,6 @@
    PATH_OUTPUT_REPORT=analytics_report.csv
    PATH_HERO_MAP=hero_id_map.json
    ```
-
-2. ⚠️ **Важно:** Добавьте `.env` в `.gitignore`, чтобы не коммитить учётные данные в публичный репозиторий!
-
 ---
 
 ## 🚀 Использование
@@ -80,7 +51,7 @@
 ### Шаг 1: Сбор ID матчей (JS-скрипт)
 
 1. Авторизуйтесь в Steam и откройте страницу истории матчей:  
-   `https://steamcommunity.com/my/gcpd/570`
+   `https://steamcommunity.com/id/Legid/gcpd/570?category=Matches&tab=PlayerMatchHistory`
 2. Откройте инструменты разработчика (`F12`) → вкладка **Console**.
 3. Вставьте содержимое скрипта из `scripts/extract_matches.js` и нажмите `Enter`.
 4. Дождитесь завершения сбора данных.
