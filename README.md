@@ -26,7 +26,7 @@
 - Python 3.8 или выше
 - Браузер с доступом к Steam (Chrome, Firefox, Edge)
 - Аккаунт Steam с включённой двухфакторной аутентификацией *(рекомендуется)*
-- Доступ к странице: `(https://steamcommunity.com/id/Legid/gcpd/570?category=Matches&tab=PlayerMatchHistory)`
+- Доступ к странице: [https://steamcommunity.com/id/Legid/gcpd/570?category=Matches&tab=PlayerMatchHistory]
 
 ---
 
