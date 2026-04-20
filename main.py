@@ -80,7 +80,8 @@ def start_processing():
                     "win": "Yes" if team == winner_team else "No",
                     "kills": p.kills,
                     "deaths": p.deaths,
-                    "assists": p.assists
+                    "assists": p.assists,
+                    "lobby_type": getattr(m, 'lobby_type', -1)
                 })
         else:
             print(f"⚠️ Матч {m_id} не ответил.")
